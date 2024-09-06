@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "ZhuqueFangsong";
+    src: url("../fonts/ZhuqueFangsong-Regular.ttf") format('truetype');
+}
+  
+:root {
+    --md-text-font: "ZhuqueFangsong"; 
+}
