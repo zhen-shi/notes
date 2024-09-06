@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd9890069e17876c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d2485c70971c758a",
+  "active": "bd9890069e17876c",
   "lastOpenFiles": [
     "游戏/血源诅咒/笔记.md",
     "index.md",
