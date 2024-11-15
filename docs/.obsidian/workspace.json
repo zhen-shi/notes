@@ -11,34 +11,17 @@
             "id": "4295849bcf2d6f3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d2485c70971c758a",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏/血源诅咒/资料.md",
+                "file": "游戏/血源诅咒/考察/错译.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd9890069e17876c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "错译"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -73,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -81,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "游戏/血源诅咒/资料.md",
+                "file": "游戏/血源诅咒/考察/短文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "短文 的反向链接列表"
             }
           },
           {
@@ -121,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "游戏/血源诅咒/资料.md",
+                "file": "游戏/血源诅咒/考察/短文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "短文 的出链列表"
             }
           },
           {
@@ -135,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -144,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "游戏/血源诅咒/资料.md"
-              }
+                "file": "游戏/血源诅咒/考察/短文.md"
+              },
+              "icon": "lucide-list",
+              "title": "短文 的大纲"
             }
           }
         ]
@@ -165,9 +162,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bd9890069e17876c",
+  "active": "4295849bcf2d6f3c",
   "lastOpenFiles": [
-    "游戏/血源诅咒/笔记.md",
+    "游戏/血源诅咒/资料.md",
+    "游戏/血源诅咒/考察/短文.md",
+    "游戏/血源诅咒/考察/错译.md",
+    "().md",
+    "游戏/血源诅咒/考察",
+    "[.md",
+    "书籍/大师和玛格丽特.md",
+    "书籍/见证.md",
+    "书籍/白痴.md",
+    "书摘/大师和玛格丽特.md",
     "index.md",
     "about.md",
     "Game/Bloodborne.md"

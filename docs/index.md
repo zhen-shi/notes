@@ -1,5 +1,17 @@
 # 扉页
 
-一本灰蓝色封皮的笔记本。
 
-内页充斥着零碎的记录与信笔涂鸦，鲜见有用的内容。
+## 目录 
+
+<div class="grid">
+	<a href="书籍" class="card">
+		<h4 class="card-title">书籍</h4>
+		<hr>
+		<p class="card-text">书摘/读书笔记</p>
+	</a>
+	<a href="游戏" class="card">
+		<h4 class="card-title">游戏</h4>
+		<hr>
+		<p class="card-text">公开资料/个人内容归档</p>
+	</a>
+</div>
