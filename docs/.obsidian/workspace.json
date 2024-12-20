@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏/血源诅咒/index.md",
+                "file": "书籍/Shostakovich_A_Life.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Shostakovich_A_Life"
             }
           }
         ]
@@ -164,10 +164,16 @@
   },
   "active": "4295849bcf2d6f3c",
   "lastOpenFiles": [
-    "游戏/血源诅咒/归档/短文考察.md",
     "书籍/index.md",
-    "书籍/大师和玛格丽特.md",
+    "书籍/Shostakovich_A_Life.md",
+    "书籍/Shostakovich.md",
+    "javascripts/extra.js",
+    "javascripts",
+    "extra",
+    "游戏/index.md",
     "游戏/血源诅咒/index.md",
+    "游戏/血源诅咒/归档/短文考察.md",
+    "书籍/大师和玛格丽特.md",
     "游戏/血源诅咒/资料.md",
     "游戏/血源诅咒/归档/错译笔记.md",
     "游戏/血源诅咒/image.png",

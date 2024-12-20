@@ -8,6 +8,7 @@
 
 ## 传记 
 
+- [_Shostakovich: A Life_](Shostakovich_A_Life) - Laurel E. Fay
 - **[《见证：肖斯塔科维奇回忆录》](见证)** [俄]季米特里·肖斯塔科维奇/[美]所罗门·伏尔科夫
 
 
