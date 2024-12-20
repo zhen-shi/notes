@@ -97,7 +97,7 @@ id="2210526565">
 	
 	然后在一个晴朗的日子里，作曲家联盟秘书 V.E.Iokhelson 和一位来自斯莫尔尼 (Smolnïy)（市党机关总部）的官员一起出现在排练现场，之后是爱乐乐团总监、职业钢琴家伦津，他邀请德米特里·德米特里耶维奇到他的办公室……十五到二十分钟后，德米特里·德米特里耶维奇回来接我，我们步行离开……
 	 	
-	我对我沮丧的同伴长时间的沉默感到困惑和不安。最后，他用一种平淡的、几乎毫无感情的声音说，这部交响曲不会上演，在伦津的坚持建议下，它已经被撤回了。由于不想诉诸行政手段，后者说服作曲家本人同意拒绝交响乐的演出。</blockquote>
+	我对我沮丧的同伴长时间的沉默感到困惑和不安。最后，他用一种平淡的、几乎毫无感情的声音说，这部交响曲不会上演，在伦津的坚持建议下，它已经被撤回了。由于不想诉诸行政手段，后者说服作曲家本人同意撤回交响乐的演出。</blockquote>
 === "原文"
 	The premiere of the Symphony no. 4 in C Minor, op. 43, with the Leningrad Philharmonic conducted by Stiedry was scheduled for 11 December 1936. In anticipation, Shostakovich admitted that he was “trembling with fright.”34 His apprehension was well founded. The concert did not take place. That morning, a brief announcement appeared in Sovetskoye iskusstvo: “Composer Shostakovich appealed to the Leningrad Philharmonic with the request to withdraw his Fourth Symphony from performance on the grounds that it in no way corresponds to his current creative convictions and represents for him a long outdated phase.” 
 	
