@@ -67,17 +67,6 @@ id="2210526565">
 ## Chapter 6. Crisis (1936–1937) 
 
 === "译文"
-	也许施蒂德里于 1937 年离开苏联并安全脱离危险的事实为后来作曲家目录中第三交响曲和第五交响曲之间令人尴尬的明显和可以被听出的裂痕提供了一个方便的替罪羊。考虑到当时的政治和审美氛围，毫无疑问，即使是完美的表演，这部庞大的“马勒式”作品也会被视为形式主义的缩影，是对党仁慈指导的傲慢蔑视。
-	
-	事实上，更耐人寻味的问题不在于它为什么被撤回，而在于它是如何接近公开表演的。 这部交响曲的构思雄心勃勃，是一位开明现代主义者的艺术“信条”。最后的乐章是在《真理报》运动发起后写成的，没有对批评界的愤怒做出明显的承认或让步。当时听过《第四交响曲》的人——它在钢琴还原专业界得到了广泛研究——对其深度、尺度和“巨大的气息”所震撼。至少在他的一位同事看来，肖斯塔科维奇退出的真正原因是非常显然的。米亚斯科夫斯基在 1936 年 12 月 11 日的日记中写道：“肖斯塔科维奇因讨论而受到严重迫害，以至于他取消了他的新（第四）交响曲的演出——这是一部具有里程碑意义的、令人眼花缭乱的交响曲。对我们这些与他同时代的人来说真是耻辱。”
-=== "原文"
-	Perhaps the fact that Stiedry had left the Soviet Union in 1937 and was safely out of harm’s way furnished a handy scapegoat to account later for the embarrassingly glaring and audible rift in the composer’s catalogue between the Third and Fifth Symphonies. Given the political and aesthetic climate of the time, there seems very little doubt that even in a flawless performance the massive, “Mahlerian”work would have been construed as the epitome of formalism, an act in arrogant defiance of the Party’s benevolent guidance.  
-	  
-	Indeed, the more intriguing question is not why it was withdrawn but how it came as close to public performance as it did. The symphony had been conceived on an ambitious scale, as the artistic “credo” of an enlightened modernist; the final movement, written after the launching of the Pravda campaign, made no conspicuous acknowledgment of or concession to the critical furor. Those who heard the Fourth Symphony then—it was widely studied in professional circles in piano reduction—were awed by its depth, its measure, its “colossal breath.” In the mind of at least one of his colleagues “the real reason for Shostakovich’s withdrawal was shamefully clear. Myaskovsky recorded in his diary on 11 December 1936: “Shostakovich was so persecuted by the discussions that he canceled the performance of his new (Fourth) Symphony—monumental and dazzling. What a disgrace for us, his contemporaries.”  
-
----
-
-=== "译文"
 	3 月 14 日，在列宁格勒一个座无虚席的大厅里，弗塞沃洛德·梅耶霍尔德在一次演讲中大胆而出人意料地为肖斯塔科维奇辩护，并恢复上演了他的创作。 一位观众回忆了当时的情景： “大厅里冻结了。 一阵掌声向肖斯塔科维奇响起，所有的人都像接到命令一样，把头转向他的方向。 德米特里·德米特里耶维奇坐立不安，用手帕擦着额头。 暴风雨般的掌声再次响起，这次是为梅耶霍尔德。”同年晚些时候，梅耶霍尔德继续劝告这位年轻的作曲家要勇敢、开朗，不要屈服于悲伤。 他表示相信，一旦肖斯塔科维奇听到他的新交响曲，他将“再次投入到新的不朽音乐的斗争中”，将他的 “脾气”化为灰烬。  
 	
 	肖斯塔科维奇还得到了其他朋友的支持。 那年春天，他在莫斯科拜访了他的赞助人图哈切夫斯基，他当时是伏罗希洛夫的副手，也是红军中最高级别的军官之一。 一位观察家回忆说 "我在图哈切夫斯基的寓所见到他（肖斯塔科维奇）时，他萎靡不振，神志不清。 你必须看到米哈伊尔·尼古拉耶维奇是多么同情他！ 他们两人在书房里密谈了很长时间。 我不知道他们谈了些什么，但肖斯塔科维奇出来时如获新生。 图哈切夫斯基也试图为肖斯塔科维奇向斯大林求情，但没有成功。 格里克曼回忆说，那年春天，肖斯塔科维奇曾一度吐露心声：“如果他们砍断我的双手，我还是会用牙齿咬着笔继续创作音乐。”同样，肖斯塔科维奇在 4 月写信给他的朋友安德烈·巴兰奇瓦泽，他是为数不多公开为肖斯塔科维奇辩护的作曲家之一：  
@@ -119,6 +108,17 @@ id="2210526565">
 	And then one fine day the secretary of the Union of Composers V.E.Iokhelson showed up at a rehearsal along with an official type from Smolnïy [headquarters of the city’s Party apparatus], after which the director of the Philharmonic, I. M. Renzin, a pianist by profession, invited Dmitriy Dmitriyevich to his office.… Fifteen to twenty minutes later Dmitriy Dmitriyevich returned for me and we departed on foot.…  
 	
 	I was confused and disturbed by the prolonged silence of my despondent companion. Finally, in a flat, almost expressionless voice, he said that the symphony would not be performed, that it had been withdrawn at the insistent recommendation of Renzin; not wanting to resort to administrative measures, the latter had prevailed upon the composer to refuse consent for the symphony’s performance himself. </blockquote>
+
+---
+
+=== "译文"
+	也许施蒂德里于 1937 年离开苏联并安全脱离危险的事实为后来作曲家目录中第三交响曲和第五交响曲之间令人尴尬的明显和可以被听出的裂痕提供了一个方便的替罪羊。考虑到当时的政治和审美氛围，毫无疑问，即使是完美的表演，这部庞大的“马勒式”作品也会被视为形式主义的缩影，是对党仁慈指导的傲慢蔑视。
+	
+	事实上，更耐人寻味的问题不在于它为什么被撤回，而在于它是如何接近公开表演的。 这部交响曲的构思雄心勃勃，是一位开明现代主义者的艺术“信条”。最后的乐章是在《真理报》运动发起后写成的，没有对批评界的愤怒做出明显的承认或让步。当时听过《第四交响曲》的人——它在钢琴还原专业界得到了广泛研究——对其深度、尺度和“巨大的气息”所震撼。至少在他的一位同事看来，肖斯塔科维奇退出的真正原因是非常显然的。米亚斯科夫斯基在 1936 年 12 月 11 日的日记中写道：“肖斯塔科维奇因讨论而受到严重迫害，以至于他取消了他的新（第四）交响曲的演出——这是一部具有里程碑意义的、令人眼花缭乱的交响曲。对我们这些与他同时代的人来说真是耻辱。”
+=== "原文"
+	Perhaps the fact that Stiedry had left the Soviet Union in 1937 and was safely out of harm’s way furnished a handy scapegoat to account later for the embarrassingly glaring and audible rift in the composer’s catalogue between the Third and Fifth Symphonies. Given the political and aesthetic climate of the time, there seems very little doubt that even in a flawless performance the massive, “Mahlerian”work would have been construed as the epitome of formalism, an act in arrogant defiance of the Party’s benevolent guidance.  
+	  
+	Indeed, the more intriguing question is not why it was withdrawn but how it came as close to public performance as it did. The symphony had been conceived on an ambitious scale, as the artistic “credo” of an enlightened modernist; the final movement, written after the launching of the Pravda campaign, made no conspicuous acknowledgment of or concession to the critical furor. Those who heard the Fourth Symphony then—it was widely studied in professional circles in piano reduction—were awed by its depth, its measure, its “colossal breath.” In the mind of at least one of his colleagues “the real reason for Shostakovich’s withdrawal was shamefully clear. Myaskovsky recorded in his diary on 11 December 1936: “Shostakovich was so persecuted by the discussions that he canceled the performance of his new (Fourth) Symphony—monumental and dazzling. What a disgrace for us, his contemporaries.”  
 
 ---
 
