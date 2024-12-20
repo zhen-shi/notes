@@ -1,4 +1,6 @@
 @import url('https://static.zeoseven.com/zsft/7/main/result.css');
+@import url('https://static.zeoseven.com/zsft/79/main/result.css');
+
 
 :root  {
     --md-text-font: "Zhuque Fangsong (technical preview)", serif;
@@ -8,9 +10,14 @@
     --md-default-fg-color--light: #000000dd;
 }
 
+.md-typeset p {
+    font-family: "Clear Han Serif";
+}
+
 .md-typeset blockquote {
     border-left: .1rem solid #00000020 !important;
     color: var(--md-default-fg-color--light);
+    font-family: "Clear Han Serif";
 }
 
 
