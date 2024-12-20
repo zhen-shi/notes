@@ -120,6 +120,7 @@ id="2210526565">
 	
 	I was confused and disturbed by the prolonged silence of my despondent companion. Finally, in a flat, almost expressionless voice, he said that the symphony would not be performed, that it had been withdrawn at the insistent recommendation of Renzin; not wanting to resort to administrative measures, the latter had prevailed upon the composer to refuse consent for the symphony’s performance himself. </blockquote>
 
+---
 
 === "译文"
 	除了自己的个人处境和职业危机，以及更广泛的反对艺术中 “形式主义 ”的美学运动之外，肖斯塔科维奇还关心并了解时事，他对笼罩整个苏联社会的可怕事态发展并非漠不关心或无动于衷。妄想症和孤立主义的浪潮不断高涨，阴谋的威胁愈演愈烈，逮捕和审判以及失踪都是生活中无法回避的事实。1936 年 6 月 18 日，马克西姆·高尔基去世（他的死后来被归咎于 “托洛茨基分子 ”和 “法西斯分子”，但现在人们相信这是斯大林的命令）。8 月，对季诺维也夫（Zinovyev）和卡缅涅夫（Kamenyev）等人的公开审判大张旗鼓地进行。被正式定罪的密谋者被枪决。安全部门在揭露托洛茨基-季诺维也夫阴谋方面的松懈导致叶若夫于 1936 年 9 月被任命为 NKVD47 负责人；他的名字将成为大恐怖中最恶劣暴行的代名词。1937 年 1 月，莫斯科对 “托洛茨基反苏中心 ”进行了第二次示众审判，又有 14 人被判处死刑。而这只是冰山一角。
