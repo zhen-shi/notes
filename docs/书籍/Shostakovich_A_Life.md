@@ -6,9 +6,10 @@
 
 *注：原文为英文，中文翻译仅为机翻+简单校对润色，建议对照原文阅读。*
 
-### BGM: String Quartet No. 8 in C Minor, Op. 110
+---
+### Shostakovich: String Quartet No. 8 in C Minor, Op. 110
 
-肖斯塔科维奇：*C小调第8号弦乐四重奏，作品110*
+*肖斯塔科维奇：C小调第8号弦乐四重奏，作品110*
 
 <meting-js
 server="netease"
@@ -30,8 +31,6 @@ id="2210526565">
 === "原文"
 	Viewed in retrospect, the story of Shostakovich's exam in Marxist methodology in the last week of December 1926 seems an ominous prescription for early martyrdom, although the still politically naive Shostakovich recounted it to Yavorsky simply as an amusing anec-dote. The exam was conducted orally for a group of five students by a commission. When one of the students was asked to explain the dif-ference, from the sociological and economic standpoints, between the work of Chopin and List, his answer induced prolonged fits of hysterical laughter from Shostakovich and another classmate.  Offended by the outburst, an “elegant” Marxist quizzed Shostakovich about his reading preparation, concluding that the student could in no way be prepared to answer questions about the sociological principle of Bach’s system of temperament and Scriabin’s timbral aggregates. Shostakovich was summarily dismissed from the exam. When he realized that, in fact, he had been dismissed without even being given the opportunity to answer a single question, Shostakovich successfully appealed to the secretary of the commission for re-examination, demanding also the re-examination of the student whose exam his behavior had disrupted. Both were tested again the next day. Both passed without further consequence.
 
-
-## Chapter 4. Pioneer (1929–1932)
 
 ## Chapter 5. Tragedy-Satire (1932–1936)
 
