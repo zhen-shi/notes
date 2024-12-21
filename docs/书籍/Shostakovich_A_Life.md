@@ -4,7 +4,7 @@
 
 [Shostakovich: A Life](https://books.google.com/books/about/Shostakovich.html?id=UbBAFDCmeEQC) - Laurel E. Fay
 
-*注：原文为英文，中文翻译仅为机翻+简单校对润色，建议对照原文阅读。*
+*注：原文为英文，中文翻译为机翻+简单校对润色，建议对照原文阅读。*
 
 ---
 ### Shostakovich: String Quartet No. 8 in C Minor, Op. 110
@@ -27,7 +27,7 @@ id="2210526565">
 ---
 
 === "译文"
-	回想起来，肖斯塔科维奇在1926年12月最后一周接受马克思主义方法论考试的故事似乎是早期殉难的不祥之兆，尽管在政治上仍然天真的肖斯塔科维奇只是将其作为一个有趣的轶事向亚沃尔斯基讲述。考试是由一个委员会以五名学生为一组进行口头考试。当一名学生被要求从社会学和经济学的角度解释肖邦和李斯特的作品之间的差异时，他的回答引起了肖斯塔科维奇和另一位同学长时间的歇斯底里的笑声。一位“优雅”的马克思主义者被肖斯塔科维奇的爆发激怒了，他质询了肖斯塔科维奇的阅读准备，得出的结论是，这位学生根本不可能准备好回答有关巴赫音律系统的社会学原理和斯克里亚宾的音色集合体的问题。肖斯塔科维奇被立即取消考试资格。当他意识到自己实际上连回答一个问题的机会都没有就被取消考试资格时，肖斯塔科维奇成功地向委员会秘书提出了重新考试的要求，同时要求对因他的行为而影响考试的学生进行重新考试。第二天，两人都再次参加了考试。两人都通过了考试，没有受到进一步的影响。
+	回想起来，肖斯塔科维奇在1926年12月最后一周接受马克思主义方法论考试的故事似乎是早期殉难的不祥之兆，尽管在政治上仍然天真的肖斯塔科维奇只是将其作为一个有趣的轶事向亚沃尔斯基讲述。考试由委员会组织，是以五名学生为一组进行的口头考试。当一名学生被要求从社会学和经济学的角度解释肖邦和李斯特的作品之间的差异时，他的回答引起了肖斯塔科维奇和另一位同学长时间的歇斯底里的笑声。一位“优雅”的马克思主义者被肖斯塔科维奇的爆发激怒了，他质询了肖斯塔科维奇的阅读准备，得出的结论是，这位学生根本不可能准备好回答有关巴赫音律系统的社会学原理和斯克里亚宾的音色集合体的问题。肖斯塔科维奇被立即取消考试资格。当他意识到自己实际上连回答一个问题的机会都没有就被取消考试资格时，肖斯塔科维奇成功地向委员会秘书提出了重新考试的要求，同时要求对因他的行为而影响考试的学生进行重新考试。第二天，两人都再次参加了考试。两人都通过了考试，没有受到进一步的影响。
 === "原文"
 	Viewed in retrospect, the story of Shostakovich's exam in Marxist methodology in the last week of December 1926 seems an ominous prescription for early martyrdom, although the still politically naive Shostakovich recounted it to Yavorsky simply as an amusing anec-dote. The exam was conducted orally for a group of five students by a commission. When one of the students was asked to explain the dif-ference, from the sociological and economic standpoints, between the work of Chopin and List, his answer induced prolonged fits of hysterical laughter from Shostakovich and another classmate.  Offended by the outburst, an “elegant” Marxist quizzed Shostakovich about his reading preparation, concluding that the student could in no way be prepared to answer questions about the sociological principle of Bach’s system of temperament and Scriabin’s timbral aggregates. Shostakovich was summarily dismissed from the exam. When he realized that, in fact, he had been dismissed without even being given the opportunity to answer a single question, Shostakovich successfully appealed to the secretary of the commission for re-examination, demanding also the re-examination of the student whose exam his behavior had disrupted. Both were tested again the next day. Both passed without further consequence.
 
@@ -439,7 +439,7 @@ id="2210526565">
 
 > 如果您最近在苏联剧院所做的就是您所谓的反形式主义，如果您认为现在在莫斯科最好的剧院舞台上上演的表演是苏联剧院的成就，那么我宁愿成为您认为的形式主义者……在追捕形式主义的过程中，您已经消灭了艺术。
 
-演讲结束后，他返回列宁格勒，并于 1939 年 6 月 20 日在抵达后被捕。此后不久，入侵者闯入他的公寓，反复刺伤他的妻子齐娜伊达·拉伊赫，后者因伤势过重而死亡。梅耶霍尔德被带到莫斯科的内务人民委员部总部，交到臭名昭著的酷刑大师列夫·施瓦茨曼手中，他崩溃了，承认自己是英国和日本的间谍。在他生命的最后几天，他给苏联政府首脑维亚切斯拉夫·莫洛托夫写了一封信，这封信被保存在警方档案中，苏联解体后，记者维塔利·申塔林斯基发现了这封信。在信中，他写道：
+演讲结束后，他返回列宁格勒，并于 1939 年 6 月 20 日在抵达后被捕。此后不久，入侵者闯入他的公寓，他的妻子齐娜伊达·拉伊赫被连捅数刀，因伤势过重而死亡。梅耶霍尔德被带到莫斯科的内务人民委员部总部，交到臭名昭著的酷刑大师列夫·施瓦茨曼手中，在刑讯逼供中，他崩溃了，承认自己是英国和日本的间谍。在他生命的最后几天，他给苏联政府首脑维亚切斯拉夫·莫洛托夫写了一封信，这封信被保存在警方档案中，苏联解体后，记者维塔利·申塔林斯基发现了这封信。在信中，他写道：
 
 > 调查人员开始对我这个 65 岁病弱的老人施加暴力。他们让我趴在地上，用皮带抽打我的脚底和脊柱。他们让我坐在椅子上，从上面大力抽打我的腿……接下来的几天里，当我的腿部出现大量内出血时，他们又用皮带抽打我红肿的淤青，疼痛难忍，就像开水浇在这些敏感部位上一样。我痛得号啕大哭。他们用同样的皮带抽打我的背，抡起拳头从高处打我的脸……无法忍受的身心痛苦让我泪流不止。我趴在地上，发现自己可以像被主人鞭打的狗一样扭曲、扭动和尖叫……经过 18 小时的审讯后，我躺在床上睡着了，为了在一小时后再回去继续更多的审讯。我被自己的呻吟声吵醒了，因为我像伤寒末期的病人一样抽搐……“死亡，哦，当然，死亡比这更容易！”被审讯的人自言自语道。我开始自证其罪，希望这至少能很快令我走上断头台。
 
