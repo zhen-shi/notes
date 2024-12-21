@@ -427,7 +427,7 @@ id="2210526565">
 === "译文"
 	1956 年 2 月 25 日凌晨，尼基塔·赫鲁晓夫在共产党第二十次代表大会的一次非公开会议上发表了“秘密”讲话，出人意料地谴责了斯大林，并揭露了“个人崇拜”的可怕后果。虽然这一事件标志着政治史上的一个转折点，但释放劳改营囚犯、为斯大林恐怖的受害者恢复名誉的缓慢进程实际上已经进行了一段时间。肖斯塔科维奇积极参与了这项工作，坚持不懈地为各种受害者，包括来自列宁格勒的老朋友热丽埃塔·东布罗夫斯卡娅和她的儿子们奔走呼吁。
 	
-	弗塞沃洛德·梅耶霍尔德也是肖斯塔科维奇为其平反而奔走呼号的人之一。负责审查梅耶霍尔德案件的检察官几乎立即对 1955 年夏天传唤肖斯塔科维奇感到后悔；当他告诉肖斯塔科维奇梅耶霍尔德死亡的真相时，作曲家难以承受，几乎无法走出办公室。1955 年 9 月 13 日，肖斯塔科维奇动用他最崇高的官方头衔——俄罗斯最高苏维埃代表和苏联人民艺术家ーー给检察官写了一封为梅耶霍尔德辩护的长信，有力地证明了这位导演的艺术天才、爱国主义精神以及他对国家无与伦比的创造性贡献。1955 年 12 月，肖斯塔科维奇被认为是有理由地引用了安东·契诃夫信中的一句话——“作家的职责不是控告，不是起诉，而是在有罪的人被判刑并受到惩罚后为他们辩护……伟大的作家和艺术家只有在他们必须保护自己不受政治影响的情况下才应该参与政治。没有他们，控告者、检察官和宪兵将比比皆是”——他几乎肯定是将其作为一种原则立场来阐述的。
+	弗塞沃洛德·梅耶霍尔德也是肖斯塔科维奇为其平反而奔走呼号的人之一。负责审查梅耶霍尔德案件的检察官几乎立即对 1955 年夏天传唤肖斯塔科维奇感到后悔；当他告诉肖斯塔科维奇梅耶霍尔德死亡的真相时，作曲家难以承受，几乎无法走出办公室。1955 年 9 月 13 日，肖斯塔科维奇动用他最崇高的官方头衔——俄罗斯最高苏维埃代表和苏联人民艺术家——给检察官写了一封为梅耶霍尔德辩护的长信，有力地证明了这位导演的艺术天才、爱国主义精神以及他对国家无与伦比的创造性贡献。1955 年 12 月，肖斯塔科维奇被认为是有理由地引用了安东·契诃夫信中的一句话——“作家的职责不是控告，不是起诉，而是在有罪的人被判刑并受到惩罚后为他们辩护……伟大的作家和艺术家只有在他们必须保护自己不受政治影响的情况下才应该参与政治。没有他们，控告者、检察官和宪兵将比比皆是”——他几乎肯定是将其作为一种原则立场来阐述的。
 === "原文"
 	In the early morning hours of 25 February 1956, Nikita Khrushchev delivered his “secret” speech to a closed session of the Twentieth Congress of the Communist Party, with its unexpected denunciation of Stalin and revelations about the ghastly consequences of the “cult of personality.” While this event marks a turning point in political history, the slow process of releasing prisoners from labor camps and rehabilitating victims of the Stalinist terror had actually been under way for some time. Shostakovich participated actively in this endeavor, agitating persistently on behalf of the most varied victims, including old family friends from Leningrad, Genrietta Dombrovskaya and her sons.
 	
