@@ -2,6 +2,7 @@ site_name: 笔记本
 site_url: https://zhen-shi.github.io/notes
 theme:
   name: material
+  custom_dir: overrides
   language: zh
   palette:
     primary: white
