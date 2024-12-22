@@ -510,6 +510,24 @@ id="2210526565">
 	
 ---
 
+上述采访的原文：*Mstislav Rostropovich and Galina Vishnevskaya: Russia, Music, and Liberty: Conversations with Claude Samuel, Amadeus, 1995:*
+
+> Rostropovich: I'll never forget the time Shostakovich was forced, really forced, to sign a letter against Sakharov. Shostakovich tried to explain why he didn't want to sign: "I'm very weak" -- and he really was ill at the time -- "the only place where I can still take a stroll is around my country house. Unfortunately, that's where Sakharov sometimes walks. How could I look him in the eye if my signature is put at the bottom of this letter?" He was forced to sign, however. He really agonized over it, and he stopped taking walks.
+> 
+> 罗斯特罗波维奇：我永远不会忘记肖斯塔科维奇被迫，真的是被迫，在一封反对萨哈罗夫的信上签字的情景。肖斯塔科维奇试图解释他为什么不想签字：“我很虚弱（他当时真的病了），我唯一可以散步的地方是我的乡间别墅周围。不幸的是，萨哈罗夫有时也会从这里走过。如果我的签名被放在这封信的底部，我要怎么直视他的眼睛呢？”然而，他最终还是被迫签了字。他真的为此苦恼不已，他不再去散步了。
+> 
+> Samuel: Would you have signed that letter if pressured?  
+> 塞缪尔：如果你受到压力的话，你会签署那封信吗？
+> 
+> Rostropovich: No. Absolutely not. Galina and I have refused to sign a number of letters, even very brief letters.  
+> 罗斯特罗波维奇：不，绝对不会。 加林娜和我拒绝签署过许多信件，甚至是非常简短的信件。
+> 
+> Samuel: So Shostakovich could have refused?  
+> 塞缪尔：所以肖斯塔科维奇可以拒绝？
+> 
+> Rostropovich: I don't blame him. He was very ill with cancer.  
+> 罗斯特罗波维奇：我不怪他。 他身患癌症，病得很重。
+
 === "译文"
 	在去年夏天的一次采访中，肖斯塔科维奇透露，在下一个演出季计划重排施特劳斯的《蝙蝠》时，他将参与重新配器和重新编辑部分乐谱。毫无疑问，他指的是莫斯科歌剧院制作的歌剧，自从他的朋友罗斯特罗波维奇和维什涅夫斯卡娅在罗斯特罗波维奇 1970 年的公开信中表示他对索尔仁尼琴的明确支持之后，在许多专业渠道都对他们关闭的情况下，他们无奈地签约加入了莫斯科歌剧院。1974 年 3 月 29 日，罗斯特罗波维奇不情愿地给勃列日涅夫写了一封信，请求允许他带着家人出国两年，因为他们的“艺术隔离”实际上扼杀了他们在国内的艺术出路，当时他还在排练这部作品。罗斯特罗波维奇不忍心告诉肖斯塔科维奇他要离开。当他和维什涅夫斯卡娅来到肖斯塔科维奇的家中时，他把写给勃列日涅夫的信的副本交给了作曲家。读完信后，肖斯塔科维奇立刻哭了起来：“你们要把我丢在谁的手里等死？”伊琳娜·肖斯塔科维奇在机场送走了罗斯特罗波维奇，罗斯特罗波维奇于 1974 年 5 月 26 日离开了这个国家，两个月后，维什涅夫斯卡娅和他们的两个女儿也离开了这个国家，他们再也见不到作曲家了。
 	
