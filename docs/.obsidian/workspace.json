@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "书籍/Shostakovich_A_Life.md",
+                "file": "书籍/Mstislav_Rostropovich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shostakovich_A_Life"
+              "title": "Mstislav_Rostropovich"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "4295849bcf2d6f3c",
   "lastOpenFiles": [
-    "书籍/index.md",
+    "书籍/Mstislav_Rostropovich.md",
     "书籍/Shostakovich_A_Life.md",
+    "书籍/index.md",
     "书籍/Shostakovich.md",
     "javascripts/extra.js",
     "javascripts",

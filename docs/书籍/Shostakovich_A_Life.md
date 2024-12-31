@@ -1,10 +1,10 @@
-# 《Shostakovich: A Life》
+# *Shostakovich: A Life*
 
 ## 作品信息
 
 [Shostakovich: A Life](https://books.google.com/books/about/Shostakovich.html?id=UbBAFDCmeEQC) - Laurel E. Fay
 
-*注：原文为英文，中文翻译为机翻+简单校对润色，建议对照原文阅读。*
+*注：原文为英文，中文翻译为机器翻译+简单校对润色，建议对照原文阅读。*
 
 ---
 ### Shostakovich: String Quartet No. 8 in C Minor, Op. 110
