@@ -11,7 +11,7 @@
 ## 正文
 
 === "译文"
-	罗斯特罗波维奇转而向他的作曲老师寻求音乐刺激。他认为自己有幸成为维萨里翁·谢巴林的学生，而谢巴林本人曾师从被称为俄罗斯二十世纪音乐宗师的尼古拉-米亚斯科夫斯基。1942 年底，谢巴林被召回，并被任命为莫斯科音乐学院院长，他非常适合担任这一职务。他的高尚品德和精湛的作曲教学技巧同样受到人们的尊敬。虽然他的教学方法以俄罗斯古典传统为基础，但谢巴林力求培养每个学生的个性，因此他们的发展迥然不同： 蒂洪·赫伦尼科夫和爱迪生·杰尼索夫都是谢巴林的忠实学生，但他们在风格和美学上却代表了苏联音乐的两极。谢巴林对音乐学院倾注了全部心血，他不仅在提高学生成绩方面花费精力，还在寻找资金修缮校舍、鼓励音乐会活动和吸引新员工方面花费精力。
+	罗斯特罗波维奇转而向他的作曲老师寻求音乐刺激。他认为自己有幸成为维萨里翁·谢巴林的学生，而谢巴林本人曾师从被称为俄罗斯二十世纪音乐宗师的尼古拉-米亚斯科夫斯基。1942 年底，谢巴林被召回，并被任命为莫斯科音乐学院院长，他非常适合担任这一职务。他的高尚品德和精湛的作曲教学技巧同样受到人们的尊敬。虽然他的教学方法以俄罗斯古典传统为基础，但谢巴林力求培养每个学生的个性，因此他们的发展迥然不同： 蒂洪·赫伦尼科夫和爱迪生·杰尼索夫都是谢巴林的忠实学生，但他们在风格和美学上却代表了苏联音乐的两极。谢巴林对音乐学院倾注了全部心血，他不仅将精力花费在提高学生成绩上，也花费在寻找资金修缮校舍、鼓励音乐会活动和吸引新员工方面上。
 	
 	谢巴林最大的成就是在 1943 年说服肖斯塔科维奇加入作曲系。罗斯特罗波维奇从奥里恩堡返回莫斯科后不久，科佐鲁波夫安排他与这位伟大的作曲家见面。肖斯塔科维奇无可挑剔的举止和对人的关注给年轻的斯拉瓦留下了深刻印象。直到今天他都无法忘记，当他把大衣放在教授衣帽间时，德米特里·德米特里耶维奇是如何与每一位服务员（其中大多数是没有牙齿的老太太）握手并指名打招呼的。尽管如此，罗斯特罗波维奇还是战战兢兢地向德米特里·德米特里耶维奇展示了他的第一首钢琴协奏曲：他以极快的速度弹奏了一遍，以掩饰他对这首曲子有点“拉赫玛尼诺夫风格”的尴尬。然而，肖斯塔科维奇却对斯拉瓦留下了深刻印象，对他赞不绝口，并愿意让他上自己的配器课。
 === "原文"
@@ -59,7 +59,7 @@
 === "译文"
 	罗斯特罗波维奇很幸运，因为他演奏普罗科菲耶夫协奏曲的时间恰逢苏联音乐界发生动乱之前。不到一个月后，1949 年 2 月，共产党中央委员会颁布了一项名为《关于穆拉德利歌剧〈伟大的友谊〉的法令》，指责苏联主要作曲家“形式主义和反苏”。在斯大林高压统治的最后几年里，这样的指控无异于公开羞辱，并可能导致最严重的后果。首当其冲的是肖斯塔科维奇、普罗科菲耶夫、米亚斯科夫斯基、谢巴林和哈恰图良，他们被指控为“反人民”，散布悲观主义和腐朽思想。罗斯特罗波维奇回忆起这段惨痛的经历：
 	
-	<blockquote>他们的大多数朋友都疏远了这些失宠的作曲家。虽然我当时还很年轻，但我理解他们的巨大价值。他们是我的偶像，我知道我永远不会背叛他们，尽管在当时，年轻的演奏家和音乐家在讲坛上大声抨击和谴责他们的老师是非常时髦的事情。肖斯塔科维奇、普罗科菲耶夫、米亚斯科夫斯基和谢巴林都遭到了他们的许多同事和一些学生的无耻对待。在音乐学院组织的会议上，可以听到学生和教师发表刻薄的言论：“感谢共产党，我的耳朵终于被打开了。我们现在明白了，这不是音乐，而是垃圾。”不幸的是，这样的忏悔经常可以听到。法令颁布前一年，我开始出国巡演。我的职业生涯正处于重要的发展阶段。但当时我从未说过或写过一个字，对这些作曲家中的任何一位表示过哪怕是最轻微的怀疑。当然，他们对我的态度与我对他们的行为是一致的，他们也为我创作了他们的作品。</blockquote>
+	<blockquote>他们的大多数朋友都疏远了这些失宠的作曲家。虽然我当时还很年轻，但我理解他们的巨大价值。他们是我的偶像，我知道我永远不会背叛他们，尽管在当时，年轻的演奏家和音乐家在讲坛上大声抨击和谴责他们的老师是非常时髦的事情。肖斯塔科维奇、普罗科菲耶夫、米亚斯科夫斯基和谢巴林都遭到了他们的许多同事和一些学生的无耻对待。在音乐学院组织的会议上，可以听到学生和教师发表刻薄的言论：“感谢党，我的耳朵终于被打开了。我们现在明白了，这不是音乐，而是垃圾。”不幸的是，这样的忏悔经常可以听到。法令颁布前一年，我开始出国巡演。我的职业生涯正处于重要的发展阶段。但当时我从未说过或写过一个字，对这些作曲家中的任何一位表示过哪怕是最轻微的怀疑。当然，他们对我的态度与我对他们的行为是一致的，他们也为我创作了他们的作品。</blockquote>
 	
 	法令颁布后的几个月内，第一个为罗斯特罗波维奇作曲的被定罪的“形式主义者”是尼古拉·米亚斯科夫斯基，他的第二首大提琴奏鸣曲就是在那个时候创作的。这首奏鸣曲被视为平反之作，并获得了斯大林奖。当罗斯特罗波维奇到家里祝贺米亚斯科夫斯基时，这位作曲家在乐谱上写下了一段感人的献词：“献给姆斯季斯拉夫·罗斯特罗波维奇，来自不太配得上他的尼古拉·米亚斯科夫斯基。”
 
@@ -76,7 +76,7 @@
 ---
 
 === "译文"
-	1948 年 12 月，我与亚历山大·德久欣首次演奏了这首奏鸣曲。米亚斯科夫斯基带着他的朋友普罗科菲耶夫来到音乐会现场，普罗科菲耶夫来到后台说：“我也想为你写一首奏鸣曲。”普罗科菲耶夫还对我的演奏提出了一些略带批评的意见，他说：“在第三乐章中，当你在 G 弦上弹奏十六分音符时，大家什么都听不到。”说到这里，他明显停顿了一下，看到我沮丧的脸，他笑着补充道：“但是当你在 A 弦上将同一乐段演奏高两个八度的同样段落时，它听起来绝对非常精彩！”我必须说，普罗科菲耶夫的这一观点得到了验证。因为在协奏曲第二乐章的开头，大提琴在低音提琴上演奏了一个非常快速的段落。最初，大提琴在没有伴奏的情况下独自演奏，只有当大提琴演奏到 A 弦更高更清晰的音域时，乐团才开始演奏。
+	<blockquote>1948 年 12 月，我与亚历山大·德久欣首次演奏了这首奏鸣曲。米亚斯科夫斯基带着他的朋友普罗科菲耶夫来到音乐会现场，普罗科菲耶夫来到后台说：“我也想为你写一首奏鸣曲。”普罗科菲耶夫还对我的演奏提出了一些略带批评的意见，他说：“在第三乐章中，当你在 G 弦上弹奏十六分音符时，大家什么都听不到。”说到这里，他明显停顿了一下，看到我沮丧的脸，他笑着补充道：“但是当你在 A 弦上将同一乐段演奏高两个八度的同样段落时，它听起来绝对非常精彩！”我必须说，普罗科菲耶夫的这一观点得到了验证。因为在协奏曲第二乐章的开头，大提琴在低音提琴上演奏了一个非常快速的段落。最初，大提琴在没有伴奏的情况下独自演奏，只有当大提琴演奏到 A 弦更高更清晰的音域时，乐团才开始演奏。</blockquote>
 	
 	普罗科菲耶夫刚完成新的大提琴奏鸣曲，就邀请罗斯特罗波维奇到他位于莫斯科郊外尼古拉戈拉的别墅做客。对这位年轻的大提琴家来说，第一次拜访是一个难忘的时刻：
 	
@@ -84,7 +84,8 @@
 	
 	当时，普罗科菲耶夫的钢琴弹得已经不那么好了，当我们通读奏鸣曲时，我惊讶于他竟然能如此迅速地忘记自己的乐曲。他弹得就像在视奏！当他弹错音符时，我甚至还纠正了他。这时，他转向我：“年轻人，这首曲子是你写的还是我写的？”</blockquote>
 === "原文"
-	I gave the first performance of the sonata with Aleksandr Dedyukhin in December 1948. Myaskovsky brought his friend, Prokofiev, to the concert, who came backstage and declared, ‘I too want to write a sonata for you.’ Prokofiev also made some slightly critical comments about my performance, saying, ‘In the third movement when you play the spiccato sixteenth notes on the G string one can’t hear a thing.’ Here he paused significantly, and seeing my dejected face, he smiled and added, ‘But when you play the same passage two octaves up on the A string it sounds absolutely brilliant!’ I must say that Prokofiev put this observation to the test. For in the opening of the second movement of the Sinfonia Concertante, the cello starts with a very fast passage on the lower strings. Initially it plays alone without accompaniment, and the orchestra is introduced only once the cello has achieved the higher and clearer register of the A string.  
+	<blockquote>I gave the first performance of the sonata with Aleksandr Dedyukhin in December 1948. Myaskovsky brought his friend, Prokofiev, to the concert, who came backstage and declared, ‘I too want to write a sonata for you.’ Prokofiev also made some slightly critical comments about my performance, saying, ‘In the third movement when you play the spiccato sixteenth notes on the G string one can’t hear a thing.’ Here he paused significantly, and seeing my dejected face, he smiled and added, ‘But when you play the same passage two octaves up on the A string it sounds absolutely brilliant!’ I must say that Prokofiev put this observation to the test. For in the opening of the second movement of the Sinfonia Concertante, the cello starts with a very fast passage on the lower strings. Initially it plays alone without accompaniment, and the orchestra is introduced only once the cello has achieved the higher and clearer register of the A string.  </blockquote>
+	
 	As soon as Prokofiev had completed his new cello sonata he invited Rostropovich down to his dacha at Nikolina Gora, outside Moscow. This first visit was a memorable occasion for the young cellist.
 	
 	<blockquote>I travelled down by car with Levon Atovmyan. As we drove into the gates of his dacha, I saw Prokofiev coming towards us. He was wearing a raspberry-coloured dressing gown and had a towel tied turban-like on his head. Behind him ran a batch of clucking chicks and cockerels; evidently he had just been feeding them. ‘Good day, Sir,’ he said jokingly. I was rooted to the spot in amazement and couldn’t get out of the car. When Sergey Sergeyevich saw my dismay, he quipped, ‘Pardon me for my country attire.’ I had prepared the sonata well and had also learnt the piano part from memory.  
@@ -96,9 +97,12 @@
 
 === "译文"
 	1948 年的法令颁布后，普罗科菲耶夫和肖斯塔科维奇都遭受了巨大的剥夺。他们的旧作无法演出，而且几乎不可能获得委托。作曲家唯一的收入来源是创作爱国主义的即兴音乐和电影音乐，而这些音乐在当时只不过是斯大林的宣传品。有一次，普罗科菲耶夫打电话给斯拉瓦，告诉他自己没钱买早餐，而且他不得不解雇他的厨师，因为他再也付不起她的工资了。罗斯特罗波维奇立即采取行动，前往作曲家联盟请赫连尼科夫帮忙。赫连尼科夫以作曲家联盟第一书记的身份礼貌地听取了意见。然后，他把穆兹冯德的一位官员莱姆佩尔特叫到自己的办公室，命令他给普罗科菲耶夫一些现金。
-	
-	……
-	
+=== "原文"
+	Both Prokofiev and Shostakovich suffered great deprivation after the decree of 1948. Their old works could not be performed, and it was next to impossible to obtain commissions. The only way for a composer to earn was to write patriotic occasional music and music for the films which at the time were little more than propaganda for Stalin. Once Prokofiev phoned Slava to inform him that he had no money to buy breakfast and would have to dismiss his cook as he could no longer pay her. Rostropovich immediately took action and went to the Union of Composers to ask Khrennikov to help out. In his capacity as First Secretary of the Composers’ Union, Khrennikov listened politely. He then called into his office a certain Lempert, an official from Muzfond, and ordered him to give some funds in cash to Prokofiev.
+
+---
+
+=== "译文"
 	两位“斯拉瓦”，里赫特和罗斯特罗波维奇，于 1949 年 12 月在作曲家联盟全体会议的一场闭门音乐会上首次演奏了这首作品，1950 年 3 月 1 日，在音乐学院小礼堂的二重奏独奏音乐会上，这首作品正式公开首演。罗斯特罗波维奇知道普罗科菲耶夫此时急需用钱，于是决定为负责收购新作品出版的委员会演奏这首大提琴奏鸣曲。在苏联，并没有专门给作曲家的佣金，但可以事后支付出版和表演权的费用。罗斯特罗波维奇回忆起和亚历山大·杰久欣在涅格林纳亚街的一个房间里为负责这项决定的官员亚历山大·阿尼西莫夫演奏这首奏鸣曲。罗斯特罗波维奇知道，阿尼西莫夫对普罗科菲耶夫没什么好感。阿尼西莫夫是一名受过专业训练的合唱指挥，20 世纪 40 年代中期曾担任莫斯科大剧院的院长，1948 年法令颁布后，他立即将普罗科菲耶夫的作品从莫斯科大剧院的保留曲目中剔除。不久之后，罗斯特罗波维奇在音乐学院的走廊里拦住了阿尼西莫夫。“亚历山大·伊万诺维奇，你不觉得把普罗科菲耶夫的《罗密欧与朱丽叶》这样一部杰出的作品从保留曲目中剔除而感到羞愧吗？”“杰出？”阿尼西莫夫哼了一声。“没什么杰出的。只不过是钹的叮叮声和鼓的𠳐𠳐声！’（当然，莫斯科大剧院的导演包厢位于舞台附近，就在打击乐区的正上方！）然而，尽管阿尼西莫夫对普罗科菲耶夫怀有敌意，但他还是通过了大提琴奏鸣曲的出版发行，只是将其归入了一级“B类”，这意味着作曲家获得的报酬会更少。
 	
 	罗斯特罗波维奇同样参与了普罗科菲耶夫第七交响曲的出版和表演，当时他和钢琴家阿纳托利·维杰尔尼科夫为由各种音乐家和作曲家组成的广播委员会演奏了四手联弹版本。正是通过莫斯科广播交响乐团首席指挥萨莫舒德和广播电台台长、作曲家巴拉桑扬，普罗科菲耶夫第一次被要求为广播管弦乐团写一首“儿童交响曲”。罗斯特罗波维奇和维杰尔尼科夫成功试奏了这部作品，并重复演奏了两次，成功售出了交响曲的版权。欣喜若狂的罗斯特罗波维奇匆匆忙忙买了一块蛋糕和一瓶香槟，与普罗科菲耶夫一起庆祝。作曲家因身体不适没有参加试奏，但他一听说试奏成功，就立即把乐谱上的标题“儿童交响曲”擦掉了。罗斯特罗波维奇问他在做什么，普罗科菲耶夫回答说：“既然大人们似乎都很喜欢它，我们就把这部作品称为第七交响曲吧。”
@@ -106,9 +110,7 @@
 	从某种程度上来说，普罗科菲耶夫的音乐引起如此多的政治争议是具有讽刺意味的。正如里赫特曾经在与罗斯特罗波维奇的交谈中感叹的那样，“仔细想想，普罗科菲耶夫的音乐具备了当局所要求的所有品质：旋律优美、曲调动听，而且通俗易懂。”里赫特一直是普罗科菲耶夫的忠实支持者，他表现出坚定的勇气，拒绝再演奏任何音乐会，直到被允许演奏作曲家的第九钢琴奏鸣曲。然而，罗斯特罗波维奇才是与普罗科菲耶夫在日常生活中关系最密切的人。里赫特回忆说，在他们演奏了大提琴奏鸣曲之后，“罗斯特罗波维奇深深吸引了普罗科菲耶夫。他完全被他的音乐迷住了。当人们看到他们在一起时，很可能会把谢尔盖·谢尔盖耶维奇误认为他的父亲——他们太像了。’ 事隔很久之后，埃米尔·吉列尔斯曾暗示罗斯特罗波维奇“依附于普罗科菲耶夫”是出于机会主义的原因，而作曲家的遗孀强烈反对这一指责：“当所有人都抛弃他时，只有罗斯特罗波维奇留在普罗科菲耶夫身边。他是我们唯一可以依靠的人。” 他们的关系建立在坚实的音乐基础之上。
 
 === "原文"
-	Both Prokofiev and Shostakovich suffered great deprivation after the decree of 1948. Their old works could not be performed, and it was next to impossible to obtain commissions. The only way for a composer to earn was to write patriotic occasional music and music for the films which at the time were little more than propaganda for Stalin. Once Prokofiev phoned Slava to inform him that he had no money to buy breakfast and would have to dismiss his cook as he could no longer pay her. Rostropovich immediately took action and went to the Union of Composers to ask Khrennikov to help out. In his capacity as First Secretary of the Composers’ Union, Khrennikov listened politely. He then called into his office a certain Lempert, an official from Muzfond, and ordered him to give some funds in cash to Prokofiev.
-	
-	......
+
 	
 	The two ‘Slavas’, Richter and Rostropovich, first performed the work at a closed concert at the Plenum of the Union of Composers in December 1949, and the official public premiere was given at their duo recital at the Small Hall of the Conservatoire on 1 March 1950. Rostropovich knew that Prokofiev was in desperate need of money at this time, and decided to play the cello sonata to the committee responsible for acquiring new works for publication. Commissions to composers did not exist as such in the Soviet Union, but money could be paid retrospectively for publication and performance rights. Rostropovich recalls playing the sonata with Aleksandr Dedyukhin in a room on Neglinnaya Street for Aleksandr Anisimov, the official responsible for the decision. Anisimov was hardly well disposed to Prokofiev, as Rostropovich knew. A choral conductor by training, Anisimov had been director of the Bolshoi Theatre during the mid-1940s, and had immediately removed Prokofiev’s works from the Bolshoi’s repertoire after the 1948 decree. Shortly afterwards, Rostropovich stopped Anisimov in the Conservatoire corridor. ‘Aleksandr Ivanovich, aren’t you ashamed to have taken out of repertoire such a brilliant work as Prokofiev’s Romeo and Juliet?’ ‘Brilliant?’ Anisimov snorted. ‘Nothing brilliant there. It’s only dring-dring from the cymbals and boomboom from the drums!’ (The director’s box at the Bolshoi is of course situated near the stage, directly over the percussion section!) Despite his hostility to Prokofiev, however, Anisimov passed the cello sonata for publication, but allocated it into the ‘B category’ of class 1, which meant less money for the composer.
 	
@@ -119,54 +121,56 @@
 
 ---
 
-=== "译文"
-	罗斯特罗波维奇一直梦想着昔日的老师能为他写作，尽管他从未向肖斯塔科维奇表达过这一热切的愿望：
-	
-	1945 年 12 月，我在全联盟比赛中获奖后不久后，在肖斯塔科维奇的建议下，我去了伊万诺沃作曲家疗养院。他的家人也住在那里。有一天，当我和德米特里·德米特里耶维奇的妻子尼娜·瓦西里耶夫娜一起去滑雪时，我触及了一个神圣不可侵犯的问题，我问道：“尼娜·瓦西里耶夫娜，既然你这么了解你的丈夫，请告诉我，我应该怎么做才能让他为大提琴写点什么？”她专注地看着我，说：“斯拉瓦，如果我告诉你，你必须保证不和任何人谈论这件事。”在期待这个神奇公式的过程中，我开始像一条准备扑向野味的狗一样颤抖起来。“好吧，斯拉瓦，如果你真的想让他为你写曲子，那就永远不要请求他这样做！”
-	
-	读完《文化报》上的文章后，罗斯特罗波维奇的好奇心被极大地激发了，但他依然保持沉默。然后，在 7 月底，他收到了肖斯塔科维奇的明信片，邀请他演奏刚刚完成的协奏曲。他急切地希望尽快收到乐谱，于是带着钢琴师亚历山大·德久欣前往列宁格勒，与肖斯塔科维奇见面，肖斯塔科维奇当时住在城外科马罗沃的别墅里：
-	
-	我于 8 月 2 日和德久欣一起从莫斯科抵达，当天晚上，德米特里·德米特里耶维奇邀请我去他姐姐玛丽亚·德米特里耶夫娜位于喀山大教堂对面五楼的公寓。在那里的立式钢琴上，他第一次为我演奏了大提琴协奏曲，然后给了我乐谱。在演奏第二乐章时，他甚至流下了几滴眼泪。他告诉我，这部作品对他来说非常珍贵。接着，他又提出了一个非常奇怪的问题，但在引出这个问题的过程中，他采取了迂回的手段。他不断地重复着“请告诉我，你喜欢这部作品吗？不，请告诉我真相，你真的喜欢吗？这对我非常重要。”简直就像在折磨我一样。我坚持向他保证，我的内心彻底被震撼了，我深深地被这首协奏曲打动。最后，他认可了我的说法，并说：“那就只剩下一个问题了。如果你真的这么喜欢它，那么请允许我把它献给你好吗？”我永远忘不了这句话。没有任何一位作曲家，哪怕是最谦卑、最没有才华的作曲家，也从来没有这样对我说过。这在我的一生中留下了印记。我当然同意了！
-	
-	于是，罗斯特罗波维奇把自己锁在爱乐大厅对面的叶夫罗佩斯卡亚酒店的房间里，8 月 3 日上午，他坐下来练习。当天他练习了 10 个小时，第二天又练习了 10 个小时，第三天他练习了 8 个小时。
-	
-	那天，德久欣和我去了德米特里·德米特里耶维奇在科马罗沃的别墅。每个人都很激动，我们就坐了一会儿，但我已经迫不及待地想开始演奏了。然后我生命中最伟大的时刻之一到来了。德米特里·德米特里耶维奇说：“等一下，斯拉瓦，我去给你找一个谱架。”“没必要，”我回答道。“你说什么，没必要，这是什么意思？”“我会凭记忆演奏。”“不可能，不可能！”于是，我和德久欣在钢琴前第一次凭记忆演奏了这首协奏曲。 
-	这场首演显然是所有见证者（大部分是肖斯塔科维奇的家人）的一次非凡而难忘的体验。用肖斯塔科维奇的女婿叶夫根尼·楚科夫斯基的话来说：“聚集在这个小房间里的人们陷入了一种表面麻木的状态，尽管他们每个人的内心都燃烧着激情。他们被作曲家的意志所俘虏，作曲家坐在那里紧张地聆听着只有他一个人听过的音乐……我心想：‘如果不是上帝，是谁赋予了作者如此支配人的力量？’”至于作曲家，他在谈到自己的作品时说：“我选取了一个简单的小主题，并试图将其发展成一首乐曲。”正如罗斯特罗波维奇所叙述的：
-	
-	他变得容光焕发。“让我给我的朋友伊萨克·达维多维奇 [格利克曼] 打电话。”他喊道，并立即请他马上过来。当格利克曼在路上时（他至少需要四十五分钟才能到达），我又把协奏曲演奏了一遍，只是给德米特里·德米特里耶维奇。之后我们打开了一瓶伏特加——它成了燃料。我和德米特里·德米特里耶维奇毫无抵抗之力，把它一饮而尽。当我们在等待格里克曼的时候，伏特加逐渐被我的身体吸收了。当伊萨克·达维多维奇到达时，肖斯塔科维奇让我再演奏一遍协奏曲。我不知道当时我演奏了什么，但它可能与肖斯塔科维奇的协奏曲没有任何关系，也许它与圣桑的协奏曲混在一起了。我已经完全糊涂了，我处于一种欣快的状态，我想那就像吸毒一样。在极度的快乐中，我感觉不到自己，也感觉不到音乐。德米特里·德米特里耶维奇不停地说：“这一切简直太奇妙了。”
-	
-	罗斯特罗波维奇在三天内学会这部作品的故事已成为传奇，但在我看来，更令人震惊的是他如此迅速而深刻地认同了这部新作品。大提琴协奏曲沿用了 1948 年为奥伊斯特拉赫创作的第一小提琴协奏曲的结构：四乐章拱形结构，中央慢板引出一段延长的快板，然后直接进入终曲。这首协奏曲充满了对比，但主要情绪是充满活力的，外乐章带有明显的讽刺和挖苦意味，而更具哲理的慢板乐章则表达了从安静的冥想到内心强烈的悲伤，从愤怒的抗议到全面的悲剧感等各种情绪。在这首协奏曲中，斯大林最喜欢的歌曲《苏丽珂》被巧妙地隐藏了起来，这也是其中隐藏的讽刺意味之一。罗斯特罗波维奇回忆说，有一次肖斯塔科维奇给他出了一个谜语：
-	
-	“斯拉瓦，你能猜出我把《苏丽珂》的主题藏在哪里了吗？”我回答说：“德米特里·德米特里耶维奇，我以为我很了解这首协奏曲，但说实话，我没有找到它。”然后他坐在钢琴前，向我展示了在终曲中主题最后一次出现的地方，当时低音部演奏了乐句的第一部分（他在这里唱道）：“我的……在哪里……”然后在极高的音域中，伴随着短笛尖锐的叫声，继续唱道：“……苏丽珂，苏丽珂？”对歌曲的这一改编实际上是一种音乐流氓行为，在当时是非常大胆和具有挑衅性的。然而，要发现这个引用并建立这种联系几乎是不可能的；当然，如果没有人向我指出，我是做不到的。
-	
-	肖斯塔科维奇早已嘲讽过这首歌，并在其讽刺作品《拉约克》（Rayok，也有人将其译作“西洋镜”或“小天堂”）中引用了这首歌的原始形式。该作品至少有一部分是在 1957 年创作的，即该协奏曲问世两年前。《拉约克》模仿了穆索尔斯基的同名讽刺作品，基本上是一部家庭娱乐作品，是对斯大林、他的意识形态专家安德烈·日丹诺夫及其小官僚愚蠢的官僚语言和简单音乐品味的猛烈模仿——正是这些人教肖斯塔科维奇如何创作音乐，让他的生活变得痛苦不堪。罗斯特罗波维奇记得，大约在那个时候，当他到肖斯塔科维奇家拜访时，这位作曲家经常一边哼着曲子，一边疑惑地看着他。直到多年以后，他才能够将这段旋律与《拉约克》中德沃伊金（日丹诺夫的化名）唱出他 1948 年演讲中的训诫的那一刻联系起来：“音乐必须美妙……”罗斯特罗波维奇承认，“当时我没有问德米特里·德米特里耶维奇他在唱什么。但现在我在想，也许他哼唱这些奇怪的旋律是在激怒我，让我问出这个显而易见的问题；但由于我的愚蠢，我没有这样做。”
-=== "原文"
-	Rostropovich had always dreamed of his former teacher writing for him, although he had never expressed this fervent wish to Shostakovich:
-	
-	Shortly after I won the All-Union competition in December 1945, I went down to the Ivanovo composers’ retreat, at Shostakovich’s suggestion. His family were also staying. One day I went skiing with Nina Vasilyevna, Dmitri Dmitriyevich’s wife. I touched on a sacrosanct issue by asking, ‘Nina Vasilyevna, since you know your husband so well, please tell me what I should do so that he writes something for cello?’ She looked at me attentively and said, ‘Slava, only if I tell you, you must promise not to speak about this with anybody else.’ In expectation of the magic formula I started to tremble like a dog ready to pounce on some wild game. ‘Alright, Slava, if you really want him to write for you, then NEVER ask him about it!”
-	
-	After reading the article in Sovetskaya Kultura, Rostropovich’s curiosity was greatly aroused, but he continued to maintain his silence. Then towards the end of July he received a postcard from Shostakovich, inviting him to perform the newly completed concerto. Anxious to receive the score as soon as possible, he travelled up to Leningrad with his pianist Aleksandr Dedyukhin to meet with Shostakovich, who was staying at his dacha outside the city in Komarovo:
-	
-	I arrived from Moscow on 2 August with Dedyukhin, and that same evening Dmitri Dmitriyevich invited me to his sister, Mariya Dmitriyevna’s town flat on the fifth floor, opposite the Kazan Cathedral. On the upright piano that stood there, he played me the cello concerto for the first time and then gave me the score. As he played the second movement, he even shed a tear or two. He told me that this work was extremely dear to him. Then came a very strange question, but in leading up to it he went through terrible convolutions. It was literally as if he was torturing me when he kept repeating, ‘Please tell me, do you like this work? No, please tell me the truth, do you really like it? It is very important to me.’ I insistently reassured him that I was absolutely shaken to the core, I was so impressed by the concerto. Eventually he conceded the argument, and said,“Then there remains just this one question. If you really like it so much, then will you please permit me to dedicate it to you?’ I can never forget this. No other composer, not even the most humble or untalented, had ever addressed me like this. It set a seal on my whole life. Of course I permitted it!
-	
-	Rostropovich thereupon locked himself in his room at the Evropeiskaya Hotel, opposite the Philharmonic Hall, and on the morning of 3 August he sat down to practise. He practised for ten hours that day, ten hours the day after, and during the third day he worked for eight hours. The day after Dedyukhin and I went out to Dmitri Dmitriyevich’s dacha at Komarovo. Everybody was very agitated, so we sat down for a little, but I was impatient to start playing. Then came one of the great moments of my life. Dmitri Dmitriyevich said, ‘Just hold on, Slava, I’ll look for a music stand and bring it for you.’ ‘It’s not necessary,’ I replied. ‘What do you mean, not necessary, what do you mean?’ ‘T’ll play from memory.’ ‘Impossible, impossible!’ I then played through the concerto for the first time with Dedyukhin at the piano — from memory.
-	
-	This first performance was evidently an extraordinary and unforgettable occasion for all who witnessed it — mostly members of Shostakovich’s family. In the words of Shostakovich’s son-in-law, Evgeny Chukovsky: The people gathered in this small room yielded to a state of superficial numbness, although passions smouldered within each one of them. They were captives to the will of the composer, who sat there tensely listening to the music which previously he alone had heard . . . 1 thought to myself,“Who if not God has given the author such power over people?’ As for the author, he said of his work, ‘I took a simple little theme and tried to develop ie Shostakovich was overcome with delight, as Rostropovich recounts:
-	
-	His mood became radiant. ‘Let me ring my friend, Isaak Davydovich [Glikman],’ he exclaimed, and he promptly asked him to come over at once. While Glikman was on his way (and he needed at least forty-five minutes to make the journey) I played the concerto through again, just for Dmitri Dmitriyevich. After that we broke open a bottle of vodka — it served as combustible fuel. For my part, there was no question of resistance, and Dmitri Dmitriyevich and I polished off the bottle between us. And while Glikman travelled and we waited, the vodka was gradually getting sucked into my organism. When Isaak Davydovich arrived, Shostakovich asked me to play the concerto again. I have no idea what I played then, but it probably didn’t bear any relation to Shostakovich’s concerto, perhaps it got mixed up with the Saint-Saéns. I had gone completely floppy, I was in such a state of euphoria, I imagine it was like being high on drugs. In my extreme happiness I had no sensation of myself nor of the music. Dmitri Dmitriyevich kept saying,“This is all simply marvellous.’
-	
-	The story of Rostropovich learning the work in three days has become legendary, but even more striking, to my mind, was the way he so quickly and deeply identified with the new work. The cello concerto follows the structure of the first violin concerto, written for Oistrakh in 1948: a four-movement arch with the central slow movement leading to an extended cadenza which follows directly on to the finale. The concerto is full of contrasts, but the predominant mood is one of energetic vitality, with the characteristic overtones of irony and sarcasm evident in the outer movements, whereas the more philosophical slow movement expresses moods ranging from quiet meditation, to acute inner sadness, from angry protest to a sense of full-scale tragedy. Amongst the hidden ironies of the concerto was the subtle disguising of Stalin’s favourite song, ‘Suliko’. Rostropovich recalls how once Shostakovich set him a riddle:  
-	“Can you guess, Slava, where I have hidden the theme of“Suliko”?’ I answered, ‘Dmitri Dmitriyevich, I thought I knew the concerto really well, but honestly, no, I haven’t found it.’ He then sat down at the piano and showed me the place where the motif sounds for the last time in the finale, when the basses play the first part of the phrase (and here he sang), ‘And where is my . . .’ and then in an extreme register with a shrill screech of the piccolo, its continuation: ‘. . . Suliko, Suliko?’ This paraphrase of the song is really a piece of musical hooliganism, very daring and provocative at the time. Nevertheless it was next to impossible to uncover this quotation and make this association; certainly I was not able to without it being pointed out to me.
-	
-	Shostakovich had ridiculed this song already, using it in its original form in his ironic satire Rayok (variously translated as ‘Peepshow’ or ‘Little Paradise’), which had been composed, at least in part, during 1957, two years before the concerto. Rayok, an imitation of Mussorgsky’s satirical work of the same name, is basically a home entertainment, a ferocious parody of the idiotic bureaucratic language and simplistic musical taste of Stalin, his ideological expert, Andrei Zhdanov, and his petty functionaries — the very people who had made life a misery for Shostakovich by instructing him how he should write music. Rostropovich remembers how around this time, when he visited Shostakovich at home, the composer often used to hum a tune while looking at him quizzically. Only many years later was he able to identify the melody with the moment in Rayok where the figure of Dvoikin — a cipher for Zhdanov - sings the injunction from his 1948 speeches: ‘Music must be beautiful . . .. Rostropovich admits, ‘At the time I didn’t ask Dmitri Dmitriyevich what he was singing. But now I wonder if perhaps by humming these strange melodies he was provoking me to ask this obvious question; but through my stupidity I didn’t do so.’
-
----
-
 
 === "译文"
 	我认为这张录音中的声音并不能还原在音乐厅听到的声音。但它确实传达了当时的特殊氛围，普罗科菲耶夫的出现，以及聚集在音乐学院小厅的所有莫斯科的音乐精英。人们可以感受到我的激动（这是我第一次和里赫特一起演奏），但更多的是节日的气氛。这是为数不多的几场音乐会之一，空气中弥漫着一种难以言喻的气氛——一种浓缩的、浓郁的人类情感、巨大的期望和特殊的能量。如果有人把手帕扔进大厅，它就会悬在空中，在半空中飞行。在某一时刻，观众无法控制自己的情绪，在谐谑曲结束后爆发出掌声，谐谑曲的曲段非常出色，它精彩的上行段落听起来就像猫儿在键盘上窜来窜去。当然，这些相当老练的观众非常清楚，他们不应该在乐章之间鼓掌，但他们无法抗拒这种自发的冲动。现在，当我聆听这段录音时，仿佛投影仪照亮了我生命中这一难忘的时刻：我生动地看到了大厅里的面孔，闻到了当时的气氛。我甚至能感受到普罗科菲耶夫的香水味，他非常喜欢用香水（顺便说一句，用香水也是他教我喜欢的）。这张唱片散发出的芳香让我重温往昔。
 === "原文"
 	I don’t think the sound in this recording represents what was heard in the hall.But it does convey the special atmosphere of the occasion, the presence ofProkofiev, and the whole musical elite of Moscow gathered in the Small Hall ofthe Conservatoire. One can sense my agitation (it was the first time I played with Richter), but more than that the festive spirit of the occasion. It was one of those few concerts which had an undefinable something in the air — a concentration, thick with intense human emotions, of great expectations, a special energy. If one had thrown a handkerchief into the hall it would have hung in the air, suspended in mid-flight. At one point the audience could not overcome their emotion and broke into applause after the end of the scherzo, with its brilliant upward-running passage, sounding like cats scampering up the keyboard. Naturally, this rather sophisticated audience knew perfectly well that it shouldn’t applaud between movements, but it was unable to resist the spontaneous urge. When I listen to this recording now, it is as if a projector illuminates this memorable moment of my life: I vividly see the faces in the hall, and smell the atmosphere. I even sense Prokofiev’s perfume which he loved using so much (using perfume, incidentally, was something he taught me to love). This recording has that aromatic flavour which resurrects the past for me.
+
+---
+
+=== "译文"
+	罗斯特罗波维奇一直梦想着昔日的老师能为他写作，尽管他从未向肖斯塔科维奇表达过这一热切的愿望：
+	
+	<blockquote>1945 年 12 月，我在全联盟比赛中获奖后不久后，在肖斯塔科维奇的建议下，我去了伊万诺沃作曲家疗养院。他的家人也住在那里。有一天，当我和德米特里·德米特里耶维奇的妻子尼娜·瓦西里耶夫娜一起去滑雪时，我触及了一个神圣不可侵犯的问题，我问道：“尼娜·瓦西里耶夫娜，既然你这么了解你的丈夫，请告诉我，我应该怎么做才能让他为大提琴写点什么？”她专注地看着我，说：“斯拉瓦，如果我告诉你，你必须保证不和任何人谈论这件事。”在期待这个神奇公式的过程中，我开始像一条准备扑向野味的狗一样颤抖起来。“好吧，斯拉瓦，如果你真的想让他为你写曲子，那就永远不要请求他这样做！”</blockquote>
+	
+	读完《文化报》上的文章后，罗斯特罗波维奇的好奇心被极大地激发了，但他依然保持沉默。然后，在 7 月底，他收到了肖斯塔科维奇的明信片，邀请他演奏刚刚完成的协奏曲。他急切地希望尽快收到乐谱，于是带着钢琴师亚历山大·德久欣前往列宁格勒，与肖斯塔科维奇见面，肖斯塔科维奇当时住在城外科马罗沃的别墅里：
+	
+	<blockquote>我于 8 月 2 日和德久欣一起从莫斯科抵达，当天晚上，德米特里·德米特里耶维奇邀请我去他姐姐玛丽亚·德米特里耶夫娜位于喀山大教堂对面五楼的公寓。在那里的立式钢琴上，他第一次为我演奏了大提琴协奏曲，然后给了我乐谱。在演奏第二乐章时，他甚至流下了几滴眼泪。他告诉我，这部作品对他来说非常珍贵。接着，他又提出了一个非常奇怪的问题，但在引出这个问题的过程中，他采取了迂回的手段。他不断地重复着“请告诉我，你喜欢这部作品吗？不，请告诉我真相，你真的喜欢吗？这对我非常重要。”简直就像在折磨我一样。我坚持向他保证，我的内心彻底被震撼了，我深深地被这首协奏曲打动。最后，他认可了我的说法，并说：“那就只剩下一个问题了。如果你真的这么喜欢它，那么请允许我把它献给你好吗？”我永远忘不了这句话。没有任何一位作曲家，哪怕是最谦卑、最没有才华的作曲家，也从来没有这样对我说过。这在我的一生中留下了印记。我当然同意了！</blockquote>
+	
+	于是，罗斯特罗波维奇把自己锁在爱乐大厅对面的叶夫罗佩斯卡亚酒店的房间里，8 月 3 日上午，他坐下来练习。当天他练习了 10 个小时，第二天又练习了 10 个小时，第三天他练习了 8 个小时。
+	
+	<blockquote>那天，德久欣和我去了德米特里·德米特里耶维奇在科马罗沃的别墅。每个人都很激动，我们就坐了一会儿，但我已经迫不及待地想开始演奏了。然后我生命中最伟大的时刻之一到来了。德米特里·德米特里耶维奇说：“等一下，斯拉瓦，我去给你找一个谱架。”“没必要，”我回答道。“你说什么，没必要，这是什么意思？”“我会凭记忆演奏。”“不可能，不可能！”于是，我和德久欣在钢琴前第一次凭记忆演奏了这首协奏曲。 </blockquote>
+	
+	这场首演显然是所有见证者（大部分是肖斯塔科维奇的家人）的一次非凡而难忘的体验。用肖斯塔科维奇的女婿叶夫根尼·楚科夫斯基的话来说：“聚集在这个小房间里的人们陷入了一种表面麻木的状态，尽管他们每个人的内心都燃烧着激情。他们被作曲家的意志所俘虏，作曲家坐在那里紧张地聆听着只有他一个人听过的音乐……我心想：‘如果不是上帝，是谁赋予了作者如此支配人的力量？’”至于作曲家，他在谈到自己的作品时说：“我选取了一个简单的小主题，并试图将其发展成一首乐曲。”正如罗斯特罗波维奇所叙述的：
+	
+	<blockquote>他变得容光焕发。“让我给我的朋友伊萨克·达维多维奇 [格利克曼] 打电话。”他喊道，并立即请他马上过来。当格利克曼在路上时（他至少需要四十五分钟才能到达），我又把协奏曲演奏了一遍，只是给德米特里·德米特里耶维奇。之后我们打开了一瓶伏特加——它成了燃料。我和德米特里·德米特里耶维奇毫无抵抗之力，把它一饮而尽。在等待格里克曼的时候，伏特加逐渐被我的身体吸收了。当伊萨克·达维多维奇到达时，肖斯塔科维奇让我再演奏一遍协奏曲。我不知道当时我演奏了什么，但它可能与肖斯塔科维奇的协奏曲没有任何关系，也许它与圣桑的协奏曲混在一起了。我已经完全糊涂了，我处于一种欣快的状态，我想那就像吸毒一样。在极度的快乐中，我感觉不到自己，也感觉不到音乐。德米特里·德米特里耶维奇不停地说：“这一切简直太奇妙了。”</blockquote>
+	
+	罗斯特罗波维奇在三天内学会这部作品的故事已成为传奇，但在我看来，更令人震惊的是他如此迅速而深刻地认同了这部新作品。大提琴协奏曲沿用了 1948 年为奥伊斯特拉赫创作的第一小提琴协奏曲的结构：四乐章拱形结构，中央慢板引出一段延长的快板，然后直接进入终曲。这首协奏曲充满了对比，但主要情绪是充满活力的，外乐章带有明显的讽刺和挖苦意味，而更具哲理的慢板乐章则表达了从安静的冥想到内心强烈的悲伤，从愤怒的抗议到全面的悲剧感等各种情绪。在这首协奏曲中，斯大林最喜欢的歌曲《苏丽珂》被巧妙地隐藏了起来，这也是其中隐藏的讽刺意味之一。罗斯特罗波维奇回忆说，有一次肖斯塔科维奇给他出了一个谜语：
+	
+	<blockquote>“斯拉瓦，你能猜出我把《苏丽珂》的主题藏在哪里了吗？”我回答说：“德米特里·德米特里耶维奇，我以为我很了解这首协奏曲，但说实话，我没有找到它。”然后他坐在钢琴前，向我展示了在终曲中主题最后一次出现的地方，当时低音部演奏了乐句的第一部分（他在这里唱道）：“我的……在哪里……”然后在极高的音域中，伴随着短笛尖锐的叫声，继续唱道：“……苏丽珂，苏丽珂？”对歌曲的这一改编实际上是一种音乐流氓行为，在当时是非常大胆和具有挑衅性的。然而，要发现这个引用并建立这种联系几乎是不可能的；当然，如果没有人向我指出，我是做不到的。</blockquote>
+	
+	肖斯塔科维奇早已嘲讽过这首歌，并在其讽刺作品《拉约克》（Rayok，也有人将其译作“西洋镜”或“小天堂”）中引用了这首歌的原始形式。该作品至少有一部分是在 1957 年创作的，即该协奏曲问世两年前。《拉约克》模仿了穆索尔斯基的同名讽刺作品，基本上是一部家庭娱乐作品，是对斯大林、他的意识形态专家安德烈·日丹诺夫及其小官僚愚蠢的官僚语言和简单音乐品味的猛烈模仿——正是这些人教肖斯塔科维奇如何创作音乐，让他的生活变得痛苦不堪。罗斯特罗波维奇记得，大约在那个时候，当他到肖斯塔科维奇家拜访时，这位作曲家经常一边哼着曲子，一边疑惑地看着他。直到多年以后，他才能够将这段旋律与《拉约克》中德沃伊金（日丹诺夫的化名）唱出他 1948 年演讲中的训诫的那一刻联系起来：“音乐必须美妙……”罗斯特罗波维奇承认，“当时我没有问德米特里·德米特里耶维奇他在唱什么。但现在我在想，也许他哼唱这些奇怪的旋律是在激怒我，让我问出这个显而易见的问题；但由于我的愚蠢，我没有这样做。”
+=== "原文"
+	Rostropovich had always dreamed of his former teacher writing for him, although he had never expressed this fervent wish to Shostakovich:
+	
+	<blockquote>Shortly after I won the All-Union competition in December 1945, I went down to the Ivanovo composers’ retreat, at Shostakovich’s suggestion. His family were also staying. One day I went skiing with Nina Vasilyevna, Dmitri Dmitriyevich’s wife. I touched on a sacrosanct issue by asking, ‘Nina Vasilyevna, since you know your husband so well, please tell me what I should do so that he writes something for cello?’ She looked at me attentively and said, ‘Slava, only if I tell you, you must promise not to speak about this with anybody else.’ In expectation of the magic formula I started to tremble like a dog ready to pounce on some wild game. ‘Alright, Slava, if you really want him to write for you, then NEVER ask him about it!”</blockquote>
+	
+	After reading the article in Sovetskaya Kultura, Rostropovich’s curiosity was greatly aroused, but he continued to maintain his silence. Then towards the end of July he received a postcard from Shostakovich, inviting him to perform the newly completed concerto. Anxious to receive the score as soon as possible, he travelled up to Leningrad with his pianist Aleksandr Dedyukhin to meet with Shostakovich, who was staying at his dacha outside the city in Komarovo:
+	
+	<blockquote>I arrived from Moscow on 2 August with Dedyukhin, and that same evening Dmitri Dmitriyevich invited me to his sister, Mariya Dmitriyevna’s town flat on the fifth floor, opposite the Kazan Cathedral. On the upright piano that stood there, he played me the cello concerto for the first time and then gave me the score. As he played the second movement, he even shed a tear or two. He told me that this work was extremely dear to him. Then came a very strange question, but in leading up to it he went through terrible convolutions. It was literally as if he was torturing me when he kept repeating, ‘Please tell me, do you like this work? No, please tell me the truth, do you really like it? It is very important to me.’ I insistently reassured him that I was absolutely shaken to the core, I was so impressed by the concerto. Eventually he conceded the argument, and said,“Then there remains just this one question. If you really like it so much, then will you please permit me to dedicate it to you?’ I can never forget this. No other composer, not even the most humble or untalented, had ever addressed me like this. It set a seal on my whole life. Of course I permitted it!</blockquote>
+	
+	Rostropovich thereupon locked himself in his room at the Evropeiskaya Hotel, opposite the Philharmonic Hall, and on the morning of 3 August he sat down to practise. He practised for ten hours that day, ten hours the day after, and during the third day he worked for eight hours. The day after Dedyukhin and I went out to Dmitri Dmitriyevich’s dacha at Komarovo. Everybody was very agitated, so we sat down for a little, but I was impatient to start playing. Then came one of the great moments of my life. Dmitri Dmitriyevich said, ‘Just hold on, Slava, I’ll look for a music stand and bring it for you.’ ‘It’s not necessary,’ I replied. ‘What do you mean, not necessary, what do you mean?’ ‘T’ll play from memory.’ ‘Impossible, impossible!’ I then played through the concerto for the first time with Dedyukhin at the piano — from memory.
+	
+	This first performance was evidently an extraordinary and unforgettable occasion for all who witnessed it — mostly members of Shostakovich’s family. In the words of Shostakovich’s son-in-law, Evgeny Chukovsky: The people gathered in this small room yielded to a state of superficial numbness, although passions smouldered within each one of them. They were captives to the will of the composer, who sat there tensely listening to the music which previously he alone had heard . . . 1 thought to myself,“Who if not God has given the author such power over people?’ As for the author, he said of his work, ‘I took a simple little theme and tried to develop ie Shostakovich was overcome with delight, as Rostropovich recounts:
+	
+	<blockquote>His mood became radiant. ‘Let me ring my friend, Isaak Davydovich [Glikman],’ he exclaimed, and he promptly asked him to come over at once. While Glikman was on his way (and he needed at least forty-five minutes to make the journey) I played the concerto through again, just for Dmitri Dmitriyevich. After that we broke open a bottle of vodka — it served as combustible fuel. For my part, there was no question of resistance, and Dmitri Dmitriyevich and I polished off the bottle between us. And while Glikman travelled and we waited, the vodka was gradually getting sucked into my organism. When Isaak Davydovich arrived, Shostakovich asked me to play the concerto again. I have no idea what I played then, but it probably didn’t bear any relation to Shostakovich’s concerto, perhaps it got mixed up with the Saint-Saéns. I had gone completely floppy, I was in such a state of euphoria, I imagine it was like being high on drugs. In my extreme happiness I had no sensation of myself nor of the music. Dmitri Dmitriyevich kept saying,“This is all simply marvellous.’</blockquote>
+	
+	The story of Rostropovich learning the work in three days has become legendary, but even more striking, to my mind, was the way he so quickly and deeply identified with the new work. The cello concerto follows the structure of the first violin concerto, written for Oistrakh in 1948: a four-movement arch with the central slow movement leading to an extended cadenza which follows directly on to the finale. The concerto is full of contrasts, but the predominant mood is one of energetic vitality, with the characteristic overtones of irony and sarcasm evident in the outer movements, whereas the more philosophical slow movement expresses moods ranging from quiet meditation, to acute inner sadness, from angry protest to a sense of full-scale tragedy. Amongst the hidden ironies of the concerto was the subtle disguising of Stalin’s favourite song, ‘Suliko’. Rostropovich recalls how once Shostakovich set him a riddle:  
+	
+	<blockquote>“Can you guess, Slava, where I have hidden the theme of“Suliko”?’ I answered, ‘Dmitri Dmitriyevich, I thought I knew the concerto really well, but honestly, no, I haven’t found it.’ He then sat down at the piano and showed me the place where the motif sounds for the last time in the finale, when the basses play the first part of the phrase (and here he sang), ‘And where is my . . .’ and then in an extreme register with a shrill screech of the piccolo, its continuation: ‘. . . Suliko, Suliko?’ This paraphrase of the song is really a piece of musical hooliganism, very daring and provocative at the time. Nevertheless it was next to impossible to uncover this quotation and make this association; certainly I was not able to without it being pointed out to me.</blockquote>
+	
+	Shostakovich had ridiculed this song already, using it in its original form in his ironic satire Rayok (variously translated as ‘Peepshow’ or ‘Little Paradise’), which had been composed, at least in part, during 1957, two years before the concerto. Rayok, an imitation of Mussorgsky’s satirical work of the same name, is basically a home entertainment, a ferocious parody of the idiotic bureaucratic language and simplistic musical taste of Stalin, his ideological expert, Andrei Zhdanov, and his petty functionaries — the very people who had made life a misery for Shostakovich by instructing him how he should write music. Rostropovich remembers how around this time, when he visited Shostakovich at home, the composer often used to hum a tune while looking at him quizzically. Only many years later was he able to identify the melody with the moment in Rayok where the figure of Dvoikin — a cipher for Zhdanov - sings the injunction from his 1948 speeches: ‘Music must be beautiful . . .. Rostropovich admits, ‘At the time I didn’t ask Dmitri Dmitriyevich what he was singing. But now I wonder if perhaps by humming these strange melodies he was provoking me to ask this obvious question; but through my stupidity I didn’t do so.’
 
 ---
 
@@ -183,16 +187,17 @@
 
 === "译文"
 	不同寻常的是，肖斯塔科维奇向罗斯特罗波维奇展示了这部未完成的作品——这对他的作品来说是非常罕见的。在大提琴部分完成之前看到这部作品，意味着罗斯特罗波维奇可以给作曲家“一个聪明的建议”，关于在三根弦上以四度演奏双音，作曲家将其融入到了终曲。肖斯塔科维奇还向罗斯特罗波维奇咨询了用十度音程来写第二主题旋律的可行性，罗斯特罗波维奇回忆道，这种音程通常不会出现：  
-	在这样的时刻，我似乎很幸运，因为我对肖斯塔科维奇说没问题，并且为了证明这一点，我拿起我的大提琴，非常干净自信地拉出了十度音程。事后，我对这次成功感到懊悔，因为每当我在公开场合演奏这部作品时，一到那个地方我就紧张，我不得不祈祷不要错过第一个和弦。德米特里·德米特里耶维奇建议说，他可以将低音部分交给中提琴部，但我说服他保留他最初的写法。
+	
+	<blockquote>在这样的时刻，我似乎很幸运，因为我对肖斯塔科维奇说没问题，并且为了证明这一点，我拿起我的大提琴，非常干净自信地拉出了十度音程。事后，我对这次成功感到懊悔，因为每当我在公开场合演奏这部作品时，一到那个地方我就紧张，我不得不祈祷不要错过第一个和弦。德米特里·德米特里耶维奇建议说，他可以将低音部分交给中提琴部，但我说服他保留他最初的写法。</blockquote>
 === "原文"
 	Exceptionally, Shostakovich had shown Rostropovich this work in its unfinished form — it was unusual for him even to speak of a composition before he had completed it. Seeing the cello part before it was complete meant that Rostropovich could give the composer ‘one clever piece of advice’, about playing double-stops in fourths across three strings, something that the composer incorporated into the finale. Shostakovich also consulted Rostropovich about the feasibility of writing the second-subject melody in tenths, an interval that does not usually feature as part of a Rostropovich remembers:  
-	In such moments I seem to have good fortune, for I said to Shostakovich it would be fine, and to demonstrate I took my cello and played the tenths in question very cleanly and confidently. Afterwards I regretted this success, for every time I perform the work in public and arrive at that spot I get nervous, I have to pray that I wouldn’t miss that first chord. Dmitri Dmitriyevich suggested that he could give the lower voice to the violas, but I persuaded him to leave it the way he had first written it.
+	
+	<blockquote>In such moments I seem to have good fortune, for I said to Shostakovich it would be fine, and to demonstrate I took my cello and played the tenths in question very cleanly and confidently. Afterwards I regretted this success, for every time I perform the work in public and arrive at that spot I get nervous, I have to pray that I wouldn’t miss that first chord. Dmitri Dmitriyevich suggested that he could give the lower voice to the violas, but I persuaded him to leave it the way he had first written it.</blockquote>
 
 ---
 
 === "译文"
-	这并不是说，罗斯特罗波维奇的要求有时不会令人困惑。有时，他只是把问题推给学生，让他们自己去发现解决问题的办法。在这种情况下，罗斯特罗波维奇的哲学很简单——他让学生进行想象性思考，并回到乐谱上，提醒学生：  
-	音乐素材必须符合你想要表达的情感。在家里练习时，你必须明确自己的任务。你必须能够在脑海中回放整部作品，这样你才能明白如何寻找正确的声音和色彩。例如，如果音乐传达的是悲伤的情绪，你就必须进一步定义悲伤：是温柔的悲伤、内心的紧张、惆怅、怀旧、悲痛还是脆弱？ 如果你在脑海中感受到了这种情绪，那么你就会知道如何用声音来再现它；然后，你只需检查声音是否与你的内耳所听到的一致。因此，你的任务是在音乐框架内组织声音。
+	这并不是说，罗斯特罗波维奇的要求有时不会令人困惑。有时，他只是把问题推给学生，让他们自己去发现解决问题的办法。在这种情况下，罗斯特罗波维奇的哲学很简单——他让学生进行想象性思考，并回到乐谱上，提醒学生：  音乐素材必须符合你想要表达的情感。在家里练习时，你必须明确自己的任务。你必须能够在脑海中回放整部作品，这样你才能明白如何寻找正确的声音和色彩。例如，如果音乐传达的是悲伤的情绪，你就必须进一步定义悲伤：是温柔的悲伤、内心的紧张、惆怅、怀旧、悲痛还是脆弱？ 如果你在脑海中感受到了这种情绪，那么你就会知道如何用声音来再现它；然后，你只需检查声音是否与你的内耳所听到的一致。因此，你的任务是在音乐框架内组织声音。
 === "原文"
 	This was not to say that Rostropovich’s demands could not sometimes be perplexing. Sometimes he merely shoved a student’s nose into a problem, leaving him to discover his own solutions. His philosophy in these cases was simple — he told the student to start thinking imaginatively, and referred him back to the score, reminding him: The musical material has to correspond to the emotions you wish to convey. At home when you practise, you must define your task. You must be able to play the whole work through in your head, so that you understand how to search for the right sound and colour. For instance if the music conveys sadness, you have to go further in your definition of sadness: is it tenderly sad, inwardly tense, despondent, nostalgic, grieving or vulnerable? If you feel the mood in your mind, then you'll know how to reproduce it in sound; then you have only to check that the sound corresponds to what you hear in your inner ear. Your task, thus, is to organise sound within its musical framework.
 
@@ -206,7 +211,7 @@
 ---
 
 === "译文"
-	在这些日子里，他有时间反思国内最近发生的事件：他决定不能再保持沉默，并决定写信为索尔仁尼琴辩护。回到莫斯科后，加林娜起初试图劝阻丈夫不要向当局发送这样一份挑衅性文件，因为她非常清楚这样做的后果。然而，当她看到丈夫的决心不可动摇时，她全力支持他，帮助他修改了这封信。加林娜·维什涅夫斯卡娅是一位非常坚强和勇敢的女性，罗斯特罗波维奇可以把她当作自己最坚定的朋友和伙伴。10 月 31 日，他出国旅行了六周——在去机场的路上，他把四份信件的复印件寄给了精心挑选的苏联报纸。起初没有任何反应，他在奥地利和德国的音乐会巡演一切正常。当他给家里的妻子打电话时，她也报告说一切正常。后来有一天，罗斯特罗波维奇在抵达布雷根茨时，看到音乐厅外聚集了大批记者和电视摄像机，他意识到他的信肯定已经被传开了。音乐会开始前，他收到了这封信的英文和德文翻译，这证实了这一点；苏联当局似乎允许将这份文件“泄露”给西方媒体。音乐会结束后，当他回到下榻的酒店时，发现酒店外停着一辆黑色的伏尔加汽车。苏联大使馆官员正在酒店大堂等着他，并要求立即与他面谈。罗斯特罗波维奇很乐意地证实这封信确实是他写的，在接下来的行程中，官员们对他关怀备至，显然很担心他会被引诱去寻求政治庇护。事实上，他完全无意这样做，而且他的妻子和孩子都在莫斯科，他无论如何也不可能这样做。
+	在这些日子里，他有时间反思国内最近发生的事件：他决定不能再保持沉默，并决定写信为索尔仁尼琴辩护。回到莫斯科后，加林娜起初试图劝阻丈夫不要向当局发送这样一份挑衅性文件，因为她非常清楚这样做的后果。然而，当她看到丈夫的决心不可动摇时，她全力支持他，帮助他修改了这封信。加林娜·维什涅夫斯卡娅是一位非常坚强和勇敢的女性，罗斯特罗波维奇可以把她当作自己最坚定的朋友和伙伴。10 月 31 日，他出国巡演了六周——在去机场的路上，他把四份信件的复印件寄给了精心挑选的苏联报纸。起初没有任何反应，他在奥地利和德国的音乐会巡演一切正常。当他给家里的妻子打电话时，她也报告说一切正常。后来有一天，罗斯特罗波维奇在抵达布雷根茨时，看到音乐厅外聚集了大批记者和电视摄像机，他意识到他的信肯定已经被传开了。音乐会开始前，他收到了这封信的英文和德文翻译，这证实了这一点；苏联当局似乎允许将这份文件“泄露”给西方媒体。音乐会结束后，当他回到下榻的酒店时，发现酒店外停着一辆黑色的伏尔加汽车。苏联大使馆官员正在酒店大堂等着他，并要求立即与他面谈。罗斯特罗波维奇很乐意地证实这封信确实是他写的，在接下来的行程中，官员们对他关怀备至，显然很担心他会被引诱去寻求政治庇护。事实上，他完全无意这样做，而且他的妻子和孩子都在莫斯科，他无论如何也不可能这样做。
 === "原文"
 	During these days he had time to reflect on recent events at home: he decided that he could no longer remain silent, and resolved to write a letter in defence of Solzhenitsyn. After his return to Moscow, Galina initially tried to dissuade her husband from sending such a provocative document to the authorities; she saw all too clearly what the consequences would be. However, when she saw that her husband’s resolve was unshakeable, she lent him her full support, helping him correct the letter. Galina Vishnevskaya is a woman of enormous strength and courage, and Rostropovich could rely on her as his staunchest friend and helpmate. He left for a six-week trip abroad on 31 October — on the way to the airport, he posted four copies of his letter, addressed to carefully selected Soviet newspapers. Initially there was no reaction from any quarter, and his concert tour of Austria and Germany proceeded normally. When he phoned his wife at home, she too reported that everything was as usual. Then one day, on arriving in Bregenz, Rostropovich saw a huge crowd of journalists and television cameras outside the concert hall, and realised that news of his letter must have broken. This was confirmed just before the concert when he was handed translations of his letter into English and German; the Soviet authorities seemed to have allowed the document to be ‘leaked’ to the Western press. On returning to his hotel after the concert, he noted a black Volga car parked outside it. Soviet Embassy officials were waiting for him in the hotel lobby, and asked for an immediate interview. Rostropovich willingly confirmed that he had indeed written this letter, and for the rest of the trip, the officials treated him with solicitous care, clearly anxious that he would be tempted to seek political asylum. In fact, he had absolutely no intention of doing this, and in any case, with his wife and children in Moscow it would not have been possible.
 
@@ -217,13 +222,27 @@
 
 ---
 
-一旦索尔仁尼琴离开他家，他就可以开始出国旅行的承诺被证明是完全没有价值的：卑鄙的迫害和羞辱仍在继续。他很快发现，对于苏联官僚来说，列宁的格言“谁不站在我们这边，谁就是我们的敌人”\*可以以一种最随意的方式加以使用。罗斯特罗波维奇被中央文化委员会高级秘书德米切夫叫去，德米切夫当面引用了那句名言。“你怎么知道我反对你们？”罗斯特罗波维奇回应道，“当我演奏德沃夏克协奏曲时，我演奏得很好，你能看出我是支持你们还是反对你们吗？你们不就是需要优秀的音乐家和作家吗，不管他们是支持你们还是反对你们？”
+一旦索尔仁尼琴离开他家，他就可以开始出国巡演的承诺被证明是完全没有价值的：卑鄙的迫害和羞辱仍在继续。他很快发现，对于苏联官僚来说，列宁的格言“谁不站在我们这边，谁就是我们的敌人”\*可以以一种最随意的方式加以使用。罗斯特罗波维奇被中央文化委员会高级秘书德米切夫叫去，德米切夫当面引用了那句名言。“你怎么知道我反对你们？”罗斯特罗波维奇回应道，“当我演奏德沃夏克协奏曲时，我演奏得很好，你能看出我是支持你们还是反对你们吗？你们不就是需要优秀的音乐家和作家吗，不管他们是支持你们还是反对你们？”
 
 *原文为"Who is not for us is against us."直译为：谁不支持我们，谁就是反对我们。
 
 ---
 
 事实证明，歌剧院的这段时期是最短暂的喘息机会。5 月 6 日，管理层通知罗斯特罗波维奇，他已被从剧组除名，原定的演出也被取消。安西莫夫曾对罗斯特洛波维奇的天才表现出极大的兴趣，现在却冷冷地对他说：“你作为音乐家已经堕落了，我们不需要你了。”罗斯特罗波维奇一时语塞。他默默地走进剧院的庭院，独自站在拱门下，像个孩子一样哭泣。
+
+---
+=== "译文"
+	罗斯特罗波维奇不希望当局误认为他的行为具有挑衅性，并希望让人觉得他们并非从零开始工作。第一天，他们录制了第一幕的大部分内容，之后暂停了几天，才开始录制歌剧的其余部分。罗斯特罗波维奇继续讲述：
+	
+	<blockquote>我们原定于 3 月 28 日回到录音室，也就是我精彩的生日派对的第二天。那天早上，加林娜让我不要接电话，因为她直觉事情不对劲。电话铃一直在响，最后我拿起了听筒。是制片厂的制片人打来的： “谢天谢地，你接了。你今天不用来了，录音不会进行了。”我立刻明白，停止录制的命令来自更高的权力机构。</blockquote>
+	
+	尽管如此，罗斯特罗波维奇还是决定亲自去找梅洛迪亚工作室的主任波赫莫夫。当他来到波克霍莫夫的办公室时，秘书们告诉他，波克霍莫夫正在忙：他正在参加一个重要会议，不能被打扰，而且今天剩下的时间都不在办公室。罗斯特罗波维奇厌倦了谎言和借口，他坚持自己的权利，闯进了波赫莫夫的办公室。“你来这里做什么？”，他被问道。“我只想知道一件事：录音真的被停止了吗？是只停了今天这次录音，还是整个录音项目都停止了？”波克霍莫夫带着某种遗憾的神情，确认项目已经取消。很明显，梅洛迪亚公司已无法做出决定。罗斯特罗波维奇无法掩饰自己的真实感受，他痛苦地说：“你们给我留下了一个明确的抉择：要么永远离开这个国家，要么自杀。”说罢，他冲出办公室，砰地一声关上了门。他和加林娜都确信，这一突然转变背后一定有什么不为人知的秘密——即使在苏联，这种转变也是不寻常的——但他们直到六个月后才发现真相。原来，得知罗斯特罗波维奇将要录制唱片的消息后，作为竞争对手，莫斯科大剧院的五位首席歌唱家恼羞成怒，并制定了一个阻止录制唱片的计划。他们未经通知地来到德米切夫的办公室，并要求接见。当听到歌手们宣布他们是来履行公民义务时，德米切夫或许大吃一惊。男高音阿特兰托夫宣布：“我们是作为共产党员，而不是作为歌唱家来谴责罗斯特罗波维奇的。”虽然罗斯特洛波维奇的音乐才华没有受到质疑，但他们坚持认为，他的意识形态不纯会污染大剧院的歌唱家和管弦乐团。录音必须停止！维什涅夫斯卡娅正确地谴责了她的同事们，认为他们心怀恶意和嫉妒，决心不择手段地击退对手。在这种情况下，德米切夫无力遵循自己的本能为罗斯托洛波维奇辩护。对意识形态纯洁性的攻击是危险的：即使是高级官员也不能无视这一点。遗憾的是，这种背信弃义的行为在当时并不少见。例如，指挥家叶夫根尼·斯韦特兰诺夫经常与罗斯托洛波维奇共事，没有理由对他心怀怨恨，但他却在公开场合斥责罗斯托洛波维奇是“音乐流氓”——晚年的他对此悔恨不已。现在我们很难相信，这种非音乐性的评判会产生如此大的影响，但当局缺乏艺术理智的态度和音乐家们的冷嘲热讽恰恰结合在了一起，并可能会让音乐家的生活陷入痛苦之中。取消《托斯卡》的录制是压垮罗斯特罗波维奇和维什涅夫斯卡娅的最后一根稻草。于是，他们决定写信给勃列日涅夫，请求允许他们出国两年。他们立即将信（日期为 3 月 29 日）交给了德米切夫，因为他们知道德米切夫会立即转交。虽然党的机构通常很臃肿，但在需要时还是可以迅速采取行动的。几个小时内，罗斯特罗波维奇就得到了对他请求的肯定答复——这是勃列日涅夫亲自做出的决定。罗斯特罗波维奇直到最后都希望当局会恳求他留下来，但他认为当局反应如此迅速，这表明他们完全不尊重他一生的音乐成就。
+=== "原文"
+	Rostropovich did not want the authorities to misconstrue his behaviour as provocative, and wished it to appear that they were not starting their work from scratch. During that first day they recorded most of Act I, after which there was a pause of a few days before they were due to record the rest of the opera. Rostropovich continues the story: 
+	
+	<blockquote>We were due back in the studios on 28 March, the day after my wonderful birthday party. That morning, Galya told me not to answer the phone, as she had an intuition that things were not right. The phone did indeed keep ringing, and in the end I picked up the receiver. It was the producer from the studios: “Thank goodness you answered. You don’t need to come in today, the recording won’t be going ahead.’ I understood immediately that the order to stop it had come from a much higher authority.</blockquote>
+	
+	Nevertheless, Rostropovich decided to seek out the director of the Melodiya studios, Pokhomov, in person. When he arrived at his office, the secretaries told him that the director was busy: he was engaged in an important meeting and could not be disturbed, and would be out the rest of the day. Tired of lies and excuses, Rostropovich insisted on his rights, and barged into Pokhomov’s office. ‘What are you doing here?’ he was asked. ‘Just tell me one thing: is it true that the recording has been stopped? Is it just this session or the whole thing?’ With a certain air of regret, Pokhomov confirmed that the project had been cancelled. It was obvious that the decision had been taken out of Melodiya’s hands. Rostropovich could not disguise his true feelings, and remarked bitterly: ‘You have left me with a clear choice: either I have to leave the country for ever — or commit suicide.’ With that, he stormed out of the office and slammed the door. Both he and Galina were certain that something lay behind this sudden volte-face — unusual even in the Soviet Union — but they only discovered the truth some six months later. It emerged that five leading singers from the rival Bolshoi cast, angered to learn of the Rostropovich recording, had worked out a plan to put a stop to it. They arrived unannounced at Demichev’s office, and demanded an audience. The surprised Demichev was probably astounded to hear the singers announce that they were here to carry out a civic duty. The tenor Atlantov announced, ‘It is as communists, not as singers, that we have come to denounce Rostropovich.’ Although his musicianship was not questioned, they insisted that his ideological impurity would contaminate the Bolshoi Theatre’s singers and orchestra. The recording had to be stopped! Vishnevskaya rightly condemned her colleagues as spiteful and envious, determined to repel their rivals by whatever means were necessary. In these circumstances, Demichev was powerless to follow his better instincts by defending Rostropovich. An attack on ideological purity was dangerous: not even a senior official could be seen to be disregarding it. Unfortunately such treacherous behaviour was not uncommon in that period. For example, the conductor Evgeny Svetlanov, who had frequently worked with Rostropovich and had no reason to resent him, denounced him in public as a ‘musical gangster’ —a remark he would sincerely regret in later years. It is difficult now for us to believe that such non-musical judgements could have so much impact, but this very combination of a lack of artistic reasoning from the authorities and cynicism from colleagues, all too prevalent in the Soviet era, could reduce a musician’s life to misery. The cancellation of the recording of Tosca was the final straw for both Rostropovich and Vishnevskaya. There and then they decided to write to Brezhnev, asking for permission to travel abroad for two years, and they delivered their letter (dated 29 March) immediately to Demichev whom they knew would pass it on without delay. Though normally unwieldy, the Party machinery could act speedily when needed, and within hours Rostropovich was given a positive response to his request — the decision was made by Brezhnev himself. Rostropovich had hoped until the last that he would be implored to stay, but he perceived the alacrity with which the authorities reacted as a sign of their complete lack of respect for his lifelong musical achievements.
 
 ---
 
@@ -252,43 +271,43 @@
 	
 	亚历山大·索尔仁尼琴大部分时间住在我莫斯科附近的家里，这已经不是什么秘密了。我亲眼目睹了他被驱逐出作家联盟的那一刻——就在他努力创作关于1914年的小说时。现在他获得了诺贝尔奖。报纸上的相关报道促使我给您写这封信。
 	
-	在我的记忆中，这已经是苏联作家第三次获得诺贝尔奖了。在三次获奖中，有两次我们认为是“肮脏的政治游戏”，但有一次（肖洛霍夫）则认为是对我国文学杰出的世界意义的“公正承认”。
+	在我的记忆中，这已经是苏联作家第三次获得诺贝尔奖了。在三次获奖中，我们认为其中两次是“肮脏的政治游戏”，但另一次（肖洛霍夫）则被认为是对我国文学杰出的世界意义的“公正承认”。
 	
-	如果肖洛霍夫当时拒绝接受那些“出于冷战考虑”而将奖项给帕斯捷尔纳克的人的奖项，我会理解我们对瑞典学院的客观性和诚实性失去了信任。但现在的情况是，我们有时会选择性地感谢诺贝尔奖，有时又会诅咒它。
+	如果肖洛霍夫当时拒绝接受那些“出于冷战考虑”而颁奖给帕斯捷尔纳克的人的奖项，我能够理解我们对瑞典学院的客观性和诚实性失去了信任。但现在的情况是，我们有时会选择性地感谢诺贝尔奖，有时又会诅咒它。
 	
-	如果下一次诺贝尔奖颁给了科切托夫同志（苏联作家和强硬派编辑）呢？当然必须接受！
+	如果下一次诺贝尔奖颁给了科切托夫同志[苏联作家和强硬派编辑]呢？当然必须接受！
 	
 	为什么在索尔仁尼琴获奖后的第二天，我们的报纸上就出现了“X”与作家联盟秘书处代表的一则奇怪的报道，大意是全国公众（显然是所有的学者和所有的音乐家等）都积极支持把他开除出作家联盟？
 	
-	为什么《文学报》从众多西方报纸中只选择美国和瑞典报纸的观点，却避开了《人道报》、《法兰西报》和《联合报》等更受欢迎、更重要的共产主义报刊，更不用说许多非共产主义报刊了？
+	为什么《文学报》只从众多西方报纸中选择美国和瑞典报纸的观点，却避开了《人道报》、《法兰西报》和《联合报》等更受欢迎、更重要的共产主义报刊，更不用说许多非共产主义报刊了？
 	
-	如果我们相信某个评论家博诺斯基[菲利普·博诺斯基，美国共产主义记者]，那么我们又该如何看待博尔、阿拉贡和弗朗索瓦·莫里亚克等重要作家的意见？
+	如果我们信任某个评论家博诺斯基[菲利普·博诺斯基，美国共产主义记者]，那么我们又该如何看待博尔、阿拉贡和弗朗索瓦·莫里亚克等重要作家的意见？
 	
-	我还记得，1948 年我们的报纸上写了多少关于我们的音乐巨匠普罗科菲耶夫和肖斯塔科维奇的胡说八道，而如今他们受到尊敬。
+	我还记得，我们的报纸在1948年写了多少关于我们的音乐巨匠普罗科菲耶夫和肖斯塔科维奇的胡说八道，而如今他们都已获得了荣誉。
 	
 	例如：
 	
 	“肖斯塔科维奇、普罗科菲耶夫、谢巴林、米亚斯科夫斯基等同志——你们的无调性不和谐音乐从本质上与人民格格不入……当你们明显缺乏才华，却非常自命不凡地追求创新时，就会出现形式主义的把戏……我们绝对不接受肖斯塔科维奇、米亚斯科夫斯基、普罗科菲耶夫的音乐。其中没有和谐，没有秩序，并不优美动听，没有旋律。”
 	
-	现在，当人们翻阅当年的新闻报纸时，会对许多事情感到难以忍受的耻辱。事实上，[肖斯塔科维奇的]歌剧《卡捷琳娜·伊兹梅洛娃》三十年来一直没有上演，斯-普罗科维耶夫生前没有听过他的歌剧《战争与和平》的最后一个版本，也没有听过他为大提琴和管弦乐队创作的《交响协奏曲》，肖斯塔科维奇、普罗科菲耶夫、米亚斯科夫斯基和哈恰图良的作品都被正式列入禁演名单。
+	现在，当人们翻阅当年的新闻报纸时，会对许多事情感到难以忍受的耻辱。事实上，[肖斯塔科维奇的]歌剧《卡捷琳娜·伊兹梅洛娃》三十年来一直没有上演，普罗科维耶夫生前没有听过他的歌剧《战争与和平》的最后一个版本，也没有听过他为大提琴和管弦乐队创作的《交响协奏曲》，肖斯塔科维奇、普罗科菲耶夫、米亚斯科夫斯基和哈恰图良的作品都被正式列入禁演名单。
 	
-	难道时间真的没有教导我们要谨慎地对有才华的人进行打压吗？不要以全体人民的名义说话？不要强迫人们把他们根本没有读过或听过的东西作为自己的观点来表达？我自豪地回忆起，我没有去参加中央文化工作者之家的文化人物会议，在那里，帕斯捷尔纳克受到抨击，而我本该在会上发表我“受命”发表的演讲，批评《日瓦戈医生》，实际上当时我还没有读过这本书。
+	难道时间真的没有教会我们要谨慎地对有才华的人进行打压吗？不要以全体人民的名义说话？不要强迫人们把他们根本没有读过或听过的东西当作自己的观点来表达？我自豪地回忆起，我没有去参加中央文化工作者之家的文化人物会议，在那里，帕斯捷尔纳克受到抨击，而我本该在会上“受命”发表演讲，批评《日瓦戈医生》，实际上当时我还没有读过这本书。
 	
-	1948年有禁演作品的名单。现在则更倾向于口头禁令，称“存在意见”认为该作品不被推荐。无法确定这种意见存在于何处，属于谁。比如，为什么加琳娜·维什涅夫斯卡娅（罗斯特罗波维奇的妻子）在莫斯科的音乐会上被禁止演唱鲍里斯·柴科夫斯基的精彩声乐作品，词作者是异议人士布罗茨基？为什么肖斯塔科维奇与萨沙·乔尔尼的作品演出几次受到阻碍（尽管文本已经出版）？为什么肖斯塔科维奇的第13和第14交响曲的演出伴随着种种困难？
+	1948年有禁演作品的名单。现在则更倾向于口头禁令，称“存在意见”认为该作品不被推荐。无法确定这种意见存在于何处，属于谁。比如，为什么加琳娜·维什涅夫斯卡娅[罗斯特罗波维奇的妻子]在莫斯科的音乐会上被禁止演唱鲍里斯·柴科夫斯基的精彩声乐作品，因为词作者是异议人士布罗茨基？为什么肖斯塔科维奇与萨沙·乔尔尼的作品演出几次受到阻碍（尽管文本已经出版）？为什么肖斯塔科维奇的第13和第14交响曲的演出伴随着种种困难？
 	
-	显然，又是“存在意见”。是谁首先“认为”有必要将索尔仁尼琴开除出作家协会？尽管我对这个问题非常感兴趣，但还是没有弄清楚。五位里贾赞的作家“火枪手”真的是在没有严肃“意见”的情况下就敢这样做吗？
+	显然，又是“存在意见”。是谁首先“认为”有必要将索尔仁尼琴开除出作家协会？尽管我对这个问题非常感兴趣，但还是没有弄清楚。五位梁赞的作家“火枪手”真的是在没有严肃“意见”的情况下就敢这样做吗？
 	
-	显然，“意见”也阻碍了我的同胞们了解塔尔夫斯基的电影《安德烈·鲁布约夫》，我们把这部电影卖到了国外，我也有幸在狂热的巴黎人之中看到了这部电影。显然，“舆论”也阻止了索尔仁尼琴的《癌病房》的出版，而这本书已经在《新世界》（苏联主要文学期刊）上发表了。因此，如果这本书在这里发表，就会得到公开和广泛的讨论，这对作者和读者都有好处。
+	显然，“意见”也阻碍了我的同胞们了解塔尔夫斯基的电影《安德烈·鲁布约夫》，我们把这部电影卖到了国外，我也有幸在狂热的巴黎人之中看到了这部电影。显然，“舆论”也阻止了索尔仁尼琴的《癌病房》的出版，而这本书已经在《新世界》[苏联主要文学期刊]上发表了。因此，如果这本书在我们国家出版，将会得到公开和广泛的讨论，这对作者和读者都有益处。
 	
 	我不谈论我们国家的政治或经济问题。有人比我更了解这些。但请告诉我，为什么在我们的文学和艺术中，常常是完全不懂这一领域的人拥有最终发言权？为什么他们有权在人民面前贬低我们的艺术？
 	
 	我回忆过去并不是为了抱怨，而是为了在未来，比如说二十年后，我们不至于羞愧地埋葬今天的报纸。
 	
-	每个人都应有权无畏地独立思考，表达自己对他所知道的、他亲身思考过的、经历过的事物的看法，而不是仅仅用稍有不同的方式来表达他所灌输的观点。
+	每个人都应有权无畏地独立思考，表达自己对他所了解的、他亲身思考过的、经历过的事物的看法，而不是仅仅用稍有不同的方式来表达他被灌输的观点。
 	
 	我们一定会在不被催促和纠正的情况下走向重建。
 	
-	我知道，在我写完这封信之后，肯定会有人对我发表“意见”，但我并不害怕。我们所引以为傲的才能，不应该受到过去侵袭的影响。我知道索尔仁尼琴的许多作品。我喜欢它们。我认为他通过自己的苦难寻求真理，以写出他所看到的真相，我认为在针对他的运动正在展开的时候，我没有理由隐藏我对他的态度。
+	我知道，在我写完这封信之后，肯定会有人对我发表“意见”，但我并不害怕。我们所引以为傲的才能，不应该受到过去侵袭的影响。我了解索尔仁尼琴的许多作品。我喜欢它们。我认为他通过自己的苦难寻求真理，以写出他所看到的真相，我认为在针对他的运动正在展开的时候，我没有理由隐藏我对他的态度。
 	
 	1970 年 10 月 31 日，于莫斯科
 === "原文"
