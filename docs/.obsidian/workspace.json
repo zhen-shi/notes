@@ -15,7 +15,7 @@
               "state": {
                 "file": "音乐/Shostakovich/Intro.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Intro"
@@ -165,9 +165,10 @@
   "active": "4295849bcf2d6f3c",
   "lastOpenFiles": [
     "游戏/血源诅咒/归档/短文考察.md",
-    "音乐/Shostakovich/Intro.md",
-    "游戏/血源诅咒/资料.md",
     "游戏/血源诅咒/归档/image.png",
+    "音乐/Shostakovich/Intro.md",
+    "音乐/Shostakovich/DSCH.png",
+    "游戏/血源诅咒/资料.md",
     "音乐/Shostakovich_Music_Intro.md",
     "音乐/Shostakovich",
     "书籍/Mstislav_Rostropovich.md",
