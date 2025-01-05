@@ -158,11 +158,11 @@
 
 TC 极致的激烈与抒情的风格真的很适合指肖斯塔科维奇，极度的恐怖和极度的悲伤都能被演绎出来，真强啊……但他太喜欢极弱处理了，导致他录音录像的效果都没有现场那么好。
 
-唉，记得这首曲子的 [YouTube](https://www.youtube.com/watch?v=4Ao_fddYc5I&t=90s) 上有一个评论：
+唉，记得这个视频的 [YouTube](https://www.youtube.com/watch?v=4Ao_fddYc5I&t=90s) 下有一个评论：
 
-> What an age this is! A Greek conductor - home in Russia - makes Germans cry while playing The Leningrad Symphony. What more messages of peace do we need?.. splendid this is, truly.
+> <small>What an age this is! A Greek conductor - home in Russia - makes Germans cry while playing The Leningrad Symphony. What more messages of peace do we need?.. splendid this is, truly.
 > 
-> 这是一个怎样的时代啊！一位身在俄罗斯的希腊指挥家在演奏《列宁格勒交响曲》时让德国人落泪。我们还需要更多的和平信息吗？真是精彩绝伦。
+> 这是一个怎样的时代啊！一位身在俄罗斯的希腊指挥家在演奏《列宁格勒交响曲》时让德国人落泪。我们还需要更多的和平信息吗？真是精彩绝伦。</small>
 
 但是很遗憾，世界还在变坏，现在是比2019年更糟糕的时代。
 
