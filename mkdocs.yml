@@ -1,0 +1,41 @@
+site_name: 笔记本
+site_url: https://zhen-shi.github.io/notes
+theme:
+  name: material
+  custom_dir: overrides
+  language: zh
+  palette:
+    primary: white
+  icon:
+    logo: material/book
+    homepage: https://zhen-shi.github.io/notes
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.footer
+
+    - search.suggest
+    - search.highlight
+    - contents.tabs.link
+    - contents.code.annotation
+    - contents.code.copy
+extra_css:
+  - assets/stylesheets/extra.css
+  - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css
+  - https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+  - https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js
+  - https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
