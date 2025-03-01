@@ -10,6 +10,7 @@
 
 - [*Mstislav Rostropovich: Cellist, Teacher, Legend*](Mstislav_Rostropovich) - Elizabeth Wilson
 - [_Shostakovich: A Life_](Shostakovich_A_Life) - Laurel E. Fay
+- [_Shostakovich: A Life_Remembered_](Shostakovich_A_Life_Remembered) - Elizabeth Wilson
 - **[《见证：肖斯塔科维奇回忆录》](见证)** [俄]季米特里·肖斯塔科维奇/[美]所罗门·伏尔科夫
 - [**《治愈的屠宰：约瑟夫·李斯特改变维多利亚时代残酷医学世界的探索》**](治愈的屠宰)  [美] 琳赛·菲茨哈里斯
 
