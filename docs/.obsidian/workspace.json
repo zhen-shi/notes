@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "书籍/index.md",
+                "file": "书籍/Shostakovich_A_Life_Remembered.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Shostakovich_A_Life_Remembered"
             }
           }
         ]
@@ -165,9 +165,9 @@
   },
   "active": "4295849bcf2d6f3c",
   "lastOpenFiles": [
-    "书籍/Shostakovich_A_Life_Remembered.md",
-    "书籍/index.md",
     "书籍/Mstislav_Rostropovich.md",
+    "书籍/index.md",
+    "书籍/Shostakovich_A_Life_Remembered.md",
     "书籍/Shostakovich_A_Life.md",
     "游戏/index.md",
     "音乐/杂项/耳机测评笔记.md",
